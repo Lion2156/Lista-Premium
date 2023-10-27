@@ -24,6 +24,8 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092583
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10608
 #EXTINF:-1,group-title="TV PREMIUM",  Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1,group-title="TV PREMIUM", NMás 
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Central Comedia HD 
@@ -33,53 +35,51 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/150589
 #EXTINF:-1,group-title="TV PREMIUM", E! HD 
 http://179.51.161.3:8000/play/a05p/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Lifetime HD 
-
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4782
 #EXTINF:-1,group-title="TV PREMIUM", SyFy HD  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
 #EXTINF:-1,group-title="TV PREMIUM", TLC HD  
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2095400
-#EXTINF:-1,group-title="TV PREMIUM", TBS HD  
-
 #EXTINF:-1,group-title="TV PREMIUM", TLnovelas HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092576
 #EXTINF:-1,group-title="TV PREMIUM", TruTV HD 
 http://179.51.161.3:8000/play/a01x/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Unicable HD 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/150596
+
 #EXTINF:-1,group-title="TV PREMIUM", AMC HD 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139466
+
 #EXTINF:-1,group-title="TV PREMIUM", A&E HD  
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139462
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3020
 #EXTINF:-1,group-title="TV PREMIUM", AXN HD 
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092558
 #EXTINF:-1,group-title="TV PREMIUM", Cine Canal HD  
-http://204.199.120.34:16123/play/ch10
-#EXTINF:-1,group-title="TV PREMIUM", Cine Latino HD
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/143704
-#EXTINF:-1 group-title="TV PREMIUM", Cinemax HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27980
-#EXTINF:-1 group-title="TV PREMIUM", Cine Premium HD 
-http://204.199.120.34:16123/play/ch49
-#EXTINF:-1,group-title="TV PREMIUM", De Pelicula HD
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152312
-#EXTINF:-1,group-title="TV PREMIUM", De Pelicula Plus HD 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/143701
-#EXTINF:-1,group-title="TV PREMIUM", FOX   
 
+#EXTINF:-1,group-title="TV PREMIUM", Cine Latino HD
+
+#EXTINF:-1 group-title="TV PREMIUM", Cinemax HD 
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092596
+#EXTINF:-1 group-title="TV PREMIUM", Cine Premium HD 
+
+#EXTINF:-1,group-title="TV PREMIUM", De Pelicula HD
+
+#EXTINF:-1,group-title="TV PREMIUM", De Pelicula Plus HD 
+
+#EXTINF:-1,group-title="TV PREMIUM", FOX   
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092589
 #EXTINF:-1,group-title="TV PREMIUM", FX HD  
-http://204.199.120.34:16123/play/ch08
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092561
 #EXTINF:-1,group-title="TV PREMIUM", Golden HD  
 
 #EXTINF:-1,group-title="TV PREMIUM", Golden EDGE HD 
-http://204.199.120.34:16123/play/ch47
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092586
 #EXTINF:-1,group-title="TV PREMIUM", Golden Plus HD  
-http://204.199.120.34:16123/play/ch46
+
 #EXTINF:-1,group-title="TV PREMIUM", HBO HD 
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092584
 #EXTINF:-1,group-title="TV PREMIUM", HBO 2 HD 
-http://167.114.156.136:25461/INFINITV/ZX89NM22/72
-#EXTINF:-1,group-title="TV PREMIUM", HBO PLUS HD  
 
+#EXTINF:-1,group-title="TV PREMIUM", HBO PLUS HD  
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092585
 #EXTINF:-1,group-title="TV PREMIUM", Multipremier 
 
 #EXTINF:-1,group-title="TV PREMIUM", PARAMOUNT CHANNEL HD 
@@ -89,11 +89,11 @@ http://179.51.161.3:8000/play/a03q/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Space HD
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Studio Universal HD 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139470
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3009
 #EXTINF:-1 group-title="TV PREMIUM", TNT HD  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/57
 #EXTINF:-1,group-title="TV PREMIUM", Universal Channel HD
-http://181.177.255.253:8000/play/a03i/index.m3u8
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092575
 #EXTINF:-1,group-title="TV PREMIUM", Warner Channel HD 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/59
 #EXTINF:-1,group-title="TV PREMIUM", Animal Planet HD  
@@ -101,15 +101,15 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Channel HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 #EXTINF:-1,group-title="TV PREMIUM", Discovery H&H HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27986
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092593
 #EXTINF:-1,group-title="TV PREMIUM", Discovery ID HD   
-http://204.199.120.34:16123/play/ch23
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092562
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Science HD 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/216
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Theater HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Turbo HD  
-http://204.199.120.34:16123/play/ch24
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2095404
 #EXTINF:-1,group-title="TV PREMIUM", Discovery World HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27991
 #EXTINF:-1,group-title="TV PREMIUM", History Channel HD 
@@ -117,17 +117,17 @@ http://179.51.161.3:8000/play/a03o/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", History 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Nat Geo HD
-http://181.119.67.75:16123/play/ch30
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092567
 #EXTINF:-1,group-title="TV PREMIUM", Nat Geo Wild HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28025
+
 #EXTINF:-1,group-title="TV PREMIUM", Cartoon Network HD
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Kids HD  
-http://204.199.120.34:16123/play/ch02
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154082
 #EXTINF:-1,group-title="TV PREMIUM", Disney Channel HD
-http://181.119.67.75:16123/play/ch03
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148728
 #EXTINF:-1,group-title="TV PREMIUM", Disney Jr HD
-http://181.119.67.75:16123/play/ch05
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154083
 #EXTINF:-1,group-title="TV PREMIUM", Disney XD  
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
 #EXTINF:-1,group-title="TV PREMIUM", Nick HD 
@@ -139,23 +139,21 @@ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154087
 #EXTINF:-1,group-title="TV PREMIUM", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", TUDN  
-
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092577
 #EXTINF:-1,group-title="TV PREMIUM", ESPN  
-
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092626
 #EXTINF:-1,group-title="TV PREMIUM", ESPN 2  
 
 #EXTINF:-1,group-title="TV PREMIUM", ESPN 3  
 
 #EXTINF:-1,group-title="TV PREMIUM", FOX SPORT 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/144283
+
 #EXTINF:-1,group-title="TV PREMIUM", FOX SPORT 2 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/144284
+
 #EXTINF:-1,group-title="TV PREMIUM", FOX SPORT 3
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 #EXTINF:-1,group-title="TV PREMIUM", Enlace HD
-http://160.20.165.245:8000/play/a00u/index.m3u8
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Sembrador
-http://138.59.177.34:8000/play/a04g/index.m3u8
-#EXTINF:-1,group-title="TV PREMIUM", Cristo Vision
-http://181.119.67.75:16123/play/ch39
+
 
