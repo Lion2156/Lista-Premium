@@ -31,7 +31,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Central Comedia HD 
 http://179.51.161.3:8000/play/a01v/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Distrito Comedia HD 
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/150589
+
 #EXTINF:-1,group-title="TV PREMIUM", E! HD 
 http://179.51.161.3:8000/play/a05p/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Lifetime HD 
