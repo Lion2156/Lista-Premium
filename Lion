@@ -21,7 +21,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  Imagen TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092583
 #EXTINF:-1,group-title="TV PREMIUM",  CNN en EspaÑol 
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10608
+
 #EXTINF:-1,group-title="TV PREMIUM",  Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", NMás 
@@ -39,7 +39,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/4782
 #EXTINF:-1,group-title="TV PREMIUM", SyFy HD  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
 #EXTINF:-1,group-title="TV PREMIUM", TLC HD  
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2095400
+
 #EXTINF:-1,group-title="TV PREMIUM", TLnovelas HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092576
 #EXTINF:-1,group-title="TV PREMIUM", TruTV HD 
