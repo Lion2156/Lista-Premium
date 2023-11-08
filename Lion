@@ -57,7 +57,7 @@ http://179.51.161.3:8000/play/a057/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Cine Latino HD
 http://00322.xyz:8000/coachprato/40437757/144827
 #EXTINF:-1 group-title="TV PREMIUM", Cinemax HD 
-http://00322.xyz:8000/coachprato/40437757/60
+http://45.175.166.13:49010/play/a01n/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Cine Premium HD 
 
 #EXTINF:-1,group-title="TV PREMIUM", De Pelicula HD
