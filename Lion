@@ -29,7 +29,7 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Central Comedia HD 
-http://179.51.161.3:8000/play/a01v/index.m3u8
+http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25558
 #EXTINF:-1,group-title="TV PREMIUM", Distrito Comedia HD 
 http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/60146
 #EXTINF:-1,group-title="TV PREMIUM", E! HD 
@@ -53,7 +53,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/3020
 #EXTINF:-1,group-title="TV PREMIUM", AXN HD 
 http://00322.xyz:8000/coachprato/40437757/134672
 #EXTINF:-1,group-title="TV PREMIUM", Cine Canal HD  
-http://179.51.161.3:8000/play/a057/index.m3u8
+http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/46624
 #EXTINF:-1,group-title="TV PREMIUM", Cine Latino HD
 http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25584
 #EXTINF:-1 group-title="TV PREMIUM", Cinemax HD 
@@ -95,7 +95,7 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Studio Universal HD 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3009
 #EXTINF:-1 group-title="TV PREMIUM", TNT HD  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/38876
 #EXTINF:-1,group-title="TV PREMIUM", Universal Channel HD
 http://00322.xyz:8000/coachprato/40437757/39
 #EXTINF:-1,group-title="TV PREMIUM", Warner Channel HD 
