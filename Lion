@@ -15,13 +15,13 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",  A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  NUEVE  
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+
 #EXTINF:-1,group-title="TV PREMIUM",  Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM",  Imagen TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 #EXTINF:-1,group-title="TV PREMIUM",  CNN en EspaÑol 
-http://45.175.166.13:49010/play/a09l/index.m3u8
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4853
 #EXTINF:-1,group-title="TV PREMIUM",  Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", NMás 
@@ -29,35 +29,37 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Central Comedia HD 
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25558
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2805
 #EXTINF:-1,group-title="TV PREMIUM", Distrito Comedia HD 
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/60146
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", E! HD 
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/3029
 #EXTINF:-1,group-title="TV PREMIUM", Lifetime HD 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4782
 #EXTINF:-1,group-title="TV PREMIUM", SyFy HD  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3010
 #EXTINF:-1,group-title="TV PREMIUM", TLC HD  
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3011
 #EXTINF:-1,group-title="TV PREMIUM", TLnovelas HD
-http://00322.xyz:8000/goodserver/2C4X1EC7EW/3798
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3798
 #EXTINF:-1,group-title="TV PREMIUM", TruTV HD 
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/10579
+
 #EXTINF:-1,group-title="TV PREMIUM", Unicable HD 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727
+http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", AMC HD 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3019
+http://go.iptvhn.net:25461/7680/7680/9
 #EXTINF:-1,group-title="TV PREMIUM", A&E HD  
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3020
 #EXTINF:-1,group-title="TV PREMIUM", AXN HD 
 http://00322.xyz:8000/coachprato/40437757/134672
 #EXTINF:-1,group-title="TV PREMIUM", Cine Canal HD  
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/46624
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4805
 #EXTINF:-1,group-title="TV PREMIUM", Cine Latino HD
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25584
+http://138.59.177.34:8000/play/a06p/index.m3u8
+#EXTINF:-1,group-title="TV PREMIUM", Cine Mexcano
+http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Cinemax HD 
-http://45.175.166.13:49010/play/a01n/index.m3u8
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3725
 #EXTINF:-1 group-title="TV PREMIUM", Cine Premium HD 
 http://177.234.230.226:8010/play/a00f/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", De Pelicula HD
@@ -69,11 +71,13 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/2695
 #EXTINF:-1,group-title="TV PREMIUM", FX HD  
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
 #EXTINF:-1,group-title="TV PREMIUM", Golden HD  
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25510
+http://00322.xyz:8000/coachprato/40437757/133836
 #EXTINF:-1,group-title="TV PREMIUM", Golden EDGE HD 
 http://00322.xyz:8000/coachprato/40437757/3762
 #EXTINF:-1,group-title="TV PREMIUM", Golden Plus HD  
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,group-title="TV PREMIUM", Golden Premer HD
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", HBO HD 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4796
 #EXTINF:-1,group-title="TV PREMIUM", HBO 2 HD 
@@ -81,31 +85,33 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/2806
 #EXTINF:-1,group-title="TV PREMIUM", HBO PLUS HD  
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4799
 #EXTINF:-1,group-title="TV PREMIUM", MC
-http://170.82.37.21:8000/play/a02s/index.m3u8
+http://190.149.66.90:4000/play/a02n/index.m3u8
+#EXTINF:-1,group-title="TV PREMIUM", Mx Prme
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Multipremier 
 http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/50134
 #EXTINF:-1,group-title="TV PREMIUM", PARAMOUNT CHANNEL HD 
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2826
 #EXTINF:-1,group-title="TV PREMIUM", Panico HD 
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/50131
+
 #EXTINF:-1,group-title="TV PREMIUM", Sony HD 
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3007
 #EXTINF:-1,group-title="TV PREMIUM", Space HD
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Studio Universal HD 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3009
 #EXTINF:-1 group-title="TV PREMIUM", TNT HD  
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/38876
+http://00322.xyz:8000/rances123/9IFBBCRBIX/138044
 #EXTINF:-1,group-title="TV PREMIUM", Universal Channel HD
 http://00322.xyz:8000/coachprato/40437757/39
 #EXTINF:-1,group-title="TV PREMIUM", Warner Channel HD 
-http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/7981
+
 #EXTINF:-1,group-title="TV PREMIUM", Animal Planet HD  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Channel HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 #EXTINF:-1,group-title="TV PREMIUM", Discovery H&H HD
-http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25607
+http://00322.xyz:8000/rances123/9IFBBCRBIX/132578
 #EXTINF:-1,group-title="TV PREMIUM", Discovery ID HD   
 http://00322.xyz:8000/coachprato/40437757/132576
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Science HD 
@@ -115,9 +121,9 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Turbo HD  
 http://00322.xyz:8000/coachprato/40437757/132587
 #EXTINF:-1,group-title="TV PREMIUM", Discovery World HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27991
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2814
 #EXTINF:-1,group-title="TV PREMIUM", History Channel HD 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
+http://00322.xyz:8000/rances123/9IFBBCRBIX/132592
 #EXTINF:-1,group-title="TV PREMIUM", History 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Nat Geo HD
@@ -143,19 +149,19 @@ http://00322.xyz:8000/coachprato/40437757/149684
 #EXTINF:-1,group-title="TV PREMIUM", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", TUDN  
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
 #EXTINF:-1,group-title="TV PREMIUM", ESPN  
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
+
 #EXTINF:-1,group-title="TV PREMIUM", ESPN 2  
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", ESPN 3  
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+http://00322.xyz:8000/rances123/9IFBBCRBIX/132280
 #EXTINF:-1,group-title="TV PREMIUM", FOX SPORT 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 #EXTINF:-1,group-title="TV PREMIUM", FOX SPORT 2 
 http://00322.xyz:8000/coachprato/40437757/140386
 #EXTINF:-1,group-title="TV PREMIUM", FOX SPORT 3
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
+http://00322.xyz:8000/rances123/9IFBBCRBIX/144619
 #EXTINF:-1,group-title="TV PREMIUM", Enlace HD
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1,group-title="TV PREMIUM", Sembrador
