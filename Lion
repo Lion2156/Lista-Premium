@@ -40,31 +40,31 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/4782
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3011
-#EXTINF:-1 group-title="TV PREMIUM", TLnovelas 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3798
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-#EXTINF:-1,group-title="TV PREMIUM", AMC 
+#EXTINF:-1,group-title="PELICULAS", AMC 
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", A&E  
+#EXTINF:-1 group-title="PELICULAS", A&E  
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AXN  
+#EXTINF:-1 group-title="PELICULAS", AXN  
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27972
-#EXTINF:-1 group-title="TV PREMIUM", Cine Canal   
+#EXTINF:-1 group-title="PELICULAS", Cine Canal   
 
-#EXTINF:-1 group-title="TV PREMIUM", Cine Latino 
+#EXTINF:-1 group-title="PELICULAS", Cine Latino 
 http://138.59.177.34:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cine Mexcano
+#EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cinemax  
+#EXTINF:-1 group-title="PELICULAS", Cinemax  
 
-#EXTINF:-1 group-title="TV PREMIUM", Cine Premium 
+#EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://177.234.230.226:8010/play/a00f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", De Pelicula 
+#EXTINF:-1 group-title="PELICULAS", De Pelicula 
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", De Pelicula Plus 
+#EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL   
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
