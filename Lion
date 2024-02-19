@@ -36,16 +36,16 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4782
-#EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3011
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3798
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
 #EXTINF:-1,group-title="PELICULAS", AMC 
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", A&E  
