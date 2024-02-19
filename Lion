@@ -91,7 +91,7 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/70
 #EXTINF:-1 group-title="PELICULAS", PARAMOUNT CHANNEL 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2826
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Panico 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/146602
 #EXTINF:-1 group-title="PELICULAS", Sony  
@@ -99,13 +99,13 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/3007
 #EXTINF:-1 group-title="PELICULAS", Space 
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3009
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", TNT   
 http://00322.xyz:8000/rances123/9IFBBCRBIX/138044
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
 http://00322.xyz:8000/coachprato/40437757/39
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28045
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
@@ -113,13 +113,13 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-http://00322.xyz:8000/coachprato/40437757/132576
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/216
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://00322.xyz:8000/coachprato/40437757/132587
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2814
 #EXTINF:-1 group-title="CULTURA", History Channel 
