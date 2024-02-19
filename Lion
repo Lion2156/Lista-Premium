@@ -127,7 +127,7 @@ http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2015
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
@@ -153,19 +153,21 @@ http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28000
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://00322.xyz:8000/rances123/9IFBBCRBIX/132280
-#EXTINF:-1,group-title="DEPORTES", ESPN Deporte 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+#EXTINF:-1,group-title="DEPORTES", ESPN DEPORTES
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 2 
-http://00322.xyz:8000/coachprato/40437757/140386
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
-http://00322.xyz:8000/rances123/9IFBBCRBIX/144619
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES", FOX SPORT PREMIUM
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
