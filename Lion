@@ -35,7 +35,7 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/4782
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
