@@ -61,7 +61,7 @@ http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
 http://190.90.154.73:8080/play/a022/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
-http://177.234.230.226:8010/play/a00f/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
@@ -97,7 +97,7 @@ http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Panico 
 http://00322.xyz:8000/rances123/9IFBBCRBIX/146602
 #EXTINF:-1 group-title="PELICULAS", Sony  
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Space 
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
@@ -137,21 +137,21 @@ http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
 http://190.90.154.73:8080/play/a02n/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://00322.xyz:8000/coachprato/40437757/132319
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
-#EXTINF:-1 group-title="INFANTIL", Nick 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/161034
+#EXTINF:-1 group-title="INFANTIL", Nickelodeon
+http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://00322.xyz:8000/coachprato/40437757/132318
-#EXTINF:-1 group-title="INFANTIL", Teen    
-http://138.59.177.34:8000/play/a02x/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL", TeenNick    
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,group-title="DEPORTES", MLB 
-http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
