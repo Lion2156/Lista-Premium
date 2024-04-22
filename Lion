@@ -53,7 +53,7 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", AXN  
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Canal   
-http://00322.xyz:8000/rances123/9IFBBCRBIX/7972
+http://stream.flynetwifi.com:1936/live/mobile-016/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Latino 
 http://138.59.177.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
@@ -81,13 +81,13 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", HBO 
 http://138.59.177.34:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2806
+http://stream.flynetwifi.com:1936/live/mobile-094/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
 http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", HBO Family
 http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", MC
-http://138.59.177.34:8000/play/a04f/index.m3u8
+http://stream.flynetwifi.com:1936/live/mobile-044/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Mx Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
@@ -99,7 +99,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/146602
 #EXTINF:-1 group-title="PELICULAS", Sony  
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Space 
-http://45.166.92.22:58001/play/a02o/index.m3u8
+http://stream.flynetwifi.com:1936/live/mobile-003/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", TNT   
@@ -125,7 +125,7 @@ http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://138.59.177.34:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+http://stream.flynetwifi.com:1936/live/mobile-058/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
@@ -165,7 +165,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
 #EXTINF:-1,group-title="DEPORTES", ESPN DEPORTES
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+http://stream.flynetwifi.com:1936/live/mobile-010/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 2 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
