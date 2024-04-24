@@ -29,47 +29,45 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Central Comedia 
-http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=13
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=138
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=159
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+http://pe.shortgod.com/pawor201/tv7.php?id=46
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
+http://pe.shortgod.com/pawor201/tv7.php?id=174
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+http://pe.shortgod.com/pawor201/tv7.php?id=879
 #EXTINF:-1,group-title="PELICULAS", AMC 
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=67
 #EXTINF:-1 group-title="PELICULAS", A&E  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/178
+http://pe.shortgod.com/pawor201/tv7.php?id=61
 #EXTINF:-1 group-title="PELICULAS", AXN  
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=69
 #EXTINF:-1 group-title="PELICULAS", Cine Canal   
-http://stream.flynetwifi.com:1936/live/mobile-016/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=10
 #EXTINF:-1 group-title="PELICULAS", Cine Latino 
-http://138.59.177.34:8000/play/a06p/index.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-http://190.90.154.73:8080/play/a022/index.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=11
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS", STAR CHANNEL   
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", FX  
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159180
 #EXTINF:-1 group-title="PELICULAS", Golden 
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Golden EDGE 
@@ -79,75 +77,77 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Golden Premer 
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", HBO 
-http://138.59.177.34:8000/play/a01m/index.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=152
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-http://stream.flynetwifi.com:1936/live/mobile-094/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=153
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159238
 #EXTINF:-1 group-title="PELICULAS", HBO Family
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159241
 #EXTINF:-1 group-title="PELICULAS", MC
 http://stream.flynetwifi.com:1936/live/mobile-044/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Mx Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
-http://138.59.177.34:8000/play/a06o/index.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=132794
 #EXTINF:-1 group-title="PELICULAS", PARAMOUNT CHANNEL 
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159252
 #EXTINF:-1 group-title="PELICULAS", Panico 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/146602
+http://pe.shortgod.com/pawor201/tv5.php?id=159250
 #EXTINF:-1 group-title="PELICULAS", Sony  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+http://pe.shortgod.com/pawor201/tv7.php?id=42
 #EXTINF:-1 group-title="PELICULAS", Space 
-http://stream.flynetwifi.com:1936/live/mobile-003/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=43
+#EXTINF:-1 group-title="PELICULAS", STAR CHANNEL   
+http://pe.shortgod.com/pawor201/tv7.php?id=147
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=44
 #EXTINF:-1 group-title="PELICULAS", TNT   
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=171
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
 http://00322.xyz:8000/coachprato/40437757/39
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=52
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
+http://pe.shortgod.com/pawor201/tv7.php?id=16
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-http://167.114.156.136:25461/INFINITV/ZX89NM22/220
+http://pe.shortgod.com/pawor201/tv7.php?id=17
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+http://pe.shortgod.com/pawor201/tv7.php?id=19
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
-http://138.59.177.34:8000/play/a05m/index.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=20
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+http://pe.shortgod.com/pawor201/tv7.php?id=21
 #EXTINF:-1 group-title="CULTURA", Discovery World 
-http://138.59.177.34:8000/play/a078/index.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=22
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://stream.flynetwifi.com:1936/live/mobile-058/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=36
 #EXTINF:-1 group-title="CULTURA", History 2 
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=40
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
-
+http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=158662
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://190.90.154.73:8080/play/a02n/index.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159124
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=458
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=23
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=163
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+http://pe.shortgod.com/pawor201/tv7.php?id=41
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=159134
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,group-title="DEPORTES", MLB 
@@ -155,23 +155,23 @@ https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv5.php?id=16593
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
+http://pe.shortgod.com/pawor201/tv7.php?id=27
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-
+http://pe.shortgod.com/pawor201/tv7.php?id=25
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+http://pe.shortgod.com/pawor201/tv7.php?id=26
 #EXTINF:-1,group-title="DEPORTES", ESPN DEPORTES
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
+http://pe.shortgod.com/pawor201/tv5.php?id=158831
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT
-http://stream.flynetwifi.com:1936/live/mobile-010/playlist.m3u8
+http://pe.shortgod.com/pawor201/tv7.php?id=31
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 2 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+http://pe.shortgod.com/pawor201/tv7.php?id=32
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
+http://pe.shortgod.com/pawor201/tv7.php?id=33
 #EXTINF:-1,group-title="DEPORTES", FOX SPORT PREMIUM
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+http://pe.shortgod.com/pawor201/tv5.php?id=158836
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
