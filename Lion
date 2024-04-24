@@ -53,13 +53,13 @@ http://pe.shortgod.com/pawor201/tv7.php?id=61
 #EXTINF:-1 group-title="PELICULAS", AXN  
 http://pe.shortgod.com/pawor201/tv7.php?id=69
 #EXTINF:-1 group-title="PELICULAS", Cine Canal   
-http://pe.shortgod.com/pawor201/tv7.php?id=10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
 #EXTINF:-1 group-title="PELICULAS", Cine Latino 
 http://pe.shortgod.com/pawor201/tv5.php?id=159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-http://pe.shortgod.com/pawor201/tv7.php?id=11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
@@ -85,7 +85,7 @@ http://pe.shortgod.com/pawor201/tv5.php?id=159238
 #EXTINF:-1 group-title="PELICULAS", HBO Family
 http://pe.shortgod.com/pawor201/tv5.php?id=159241
 #EXTINF:-1 group-title="PELICULAS", MC
-http://stream.flynetwifi.com:1936/live/mobile-044/playlist.m3u8
+http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Mx Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
