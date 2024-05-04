@@ -59,7 +59,7 @@ http://pe.shortgod.com/pawor201/tv5.php?id=159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
+http://181.78.75.83:5013/play/a08d/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
@@ -67,7 +67,7 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", FX  
-http://pe.shortgod.com/pawor201/tv5.php?id=159180
+http://181.78.75.83:5013/play/a08h/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Golden 
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Golden EDGE 
@@ -111,17 +111,17 @@ http://181.78.75.83:5013/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://167.114.156.136:25461/INFINITV/ZX89NM22/75
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
+http://181.78.75.83:5013/play/a05f/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
+http://181.78.75.83:5013/play/a05g/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
+http://181.78.75.83:5013/play/a05i/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://181.78.75.83:5013/play/a05l/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+http://181.78.75.83:5013/play/a08q/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://181.78.75.83:5013/play/a05m/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
@@ -135,9 +135,9 @@ http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
 http://pe.shortgod.com/pawor201/tv5.php?id=158662
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
+http://181.78.75.83:5013/play/a09e/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://pe.shortgod.com/pawor201/tv7.php?id=458
+http://181.78.75.83:5013/play/a06f/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
 #EXTINF:-1 group-title="INFANTIL", Disney XD
