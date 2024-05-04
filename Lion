@@ -28,8 +28,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Central Comedia 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
+http://181.78.105.146:6060/play/a03m
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
@@ -141,7 +141,7 @@ http://181.78.75.83:5013/play/a06f/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/105
 #EXTINF:-1 group-title="INFANTIL", Disney XD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
+http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
 http://181.78.75.83:5013/play/a05u/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
@@ -157,11 +157,11 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://pe.shortgod.com/pawor201/tv5.php?id=16593
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
+http://168.232.168.242:4000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1016
+http://168.232.168.242:4000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://131.161.53.2:8000/play/a070/index.m3u8
+http://168.232.168.242:4000/play/a05g/index.m3u8
 #EXTINF:-1,group-title="DEPORTES", ESPN DEPORTES
 http://pe.shortgod.com/pawor201/tv5.php?id=158831
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT
