@@ -35,13 +35,13 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://181.78.75.83:5013/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/220
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://181.78.75.83:5013/play/a072/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
-http://pe.shortgod.com/pawor201/tv7.php?id=174
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
@@ -77,9 +77,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Golden Premer 
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", HBO 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/152
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/198
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/199
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
 http://pe.shortgod.com/pawor201/tv5.php?id=159238
 #EXTINF:-1 group-title="PELICULAS", HBO Family
@@ -95,7 +95,7 @@ http://pe.shortgod.com/pawor201/tv5.php?id=159252
 #EXTINF:-1 group-title="PELICULAS", Panico 
 http://pe.shortgod.com/pawor201/tv5.php?id=159250
 #EXTINF:-1 group-title="PELICULAS", Sony  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
 #EXTINF:-1 group-title="PELICULAS", Space 
 http://181.78.75.83:5013/play/a0a1/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Star Channel   
@@ -127,19 +127,19 @@ http://181.78.75.83:5013/play/a05m/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
 http://181.78.75.83:5013/play/a09y/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/154
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
 http://181.78.75.83:5013/play/a0am/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://pe.shortgod.com/pawor201/tv5.php?id=158662
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/51
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
 http://181.78.75.83:5013/play/a09e/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
 http://181.78.75.83:5013/play/a06f/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/105
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
@@ -167,7 +167,7 @@ http://pe.shortgod.com/pawor201/tv5.php?id=158831
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 2 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/166
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
 http://pe.shortgod.com/pawor201/tv7.php?id=33
 #EXTINF:-1,group-title="DEPORTES", FOX SPORT PREMIUM
