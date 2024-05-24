@@ -9,7 +9,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+http://168.232.168.242:4000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/vpXleBr.png" group-title="NACIONAL", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
@@ -45,7 +45,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
-http://pe.shortgod.com/pawor201/tv7.php?id=879
+http://181.78.75.83:5013/play/a06e/index.m3u8
 #EXTINF:-1,group-title="PELICULAS", AMC 
 http://181.78.75.83:5013/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", A&E  
@@ -55,7 +55,7 @@ http://181.78.75.83:5013/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Canal   
 http://181.78.75.83:5013/play/a09x/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Latino 
-http://pe.shortgod.com/pawor201/tv5.php?id=159213
+http://181.78.105.146:6060/play/a049
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
@@ -63,7 +63,7 @@ http://181.78.75.83:5013/play/a08d/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+http://38.41.8.1:8000/play/a08t
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", FX  
@@ -89,7 +89,7 @@ http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Mx Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
-http://pe.shortgod.com/pawor201/tv5.php?id=132794
+http://181.78.105.146:6060/play/a048
 #EXTINF:-1 group-title="PELICULAS", Paramount Channel
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Panico 
@@ -127,7 +127,7 @@ http://181.78.75.83:5013/play/a05m/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
 http://181.78.75.83:5013/play/a09y/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
+http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
 http://181.78.75.83:5013/play/a0am/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
@@ -147,7 +147,7 @@ http://181.78.75.83:5013/play/a05u/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://181.78.75.83:5013/play/a08p/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://pe.shortgod.com/pawor201/tv5.php?id=159134
+http://181.78.105.146:6060/play/a02a
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,group-title="DEPORTES", MLB 
@@ -163,11 +163,11 @@ http://168.232.168.242:4000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 http://168.232.168.242:4000/play/a05g/index.m3u8
 #EXTINF:-1,group-title="DEPORTES", ESPN DEPORTES
-http://pe.shortgod.com/pawor201/tv5.php?id=158831
+https://vpngratis.win/play/Eh965qkWcPOPQDBbbK0tn3rMHBoaN3XuIRYN4nw-iEIAE_bVz3TZlllEiSm2RGDh/ts
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+http://gustvplay.com:8080/3Efq97fnbzWe/MtTXMtwsh2NV/375
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 2 
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/166
+http://gustvplay.com:8080/3Efq97fnbzWe/MtTXMtwsh2NV/379
 #EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
 http://pe.shortgod.com/pawor201/tv7.php?id=33
 #EXTINF:-1,group-title="DEPORTES", FOX SPORT PREMIUM
