@@ -15,9 +15,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26964.m3u8
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/283615
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159079
 #EXTINF:-1 group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
@@ -31,7 +31,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://181.78.105.146:6060/play/a03m
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://181.78.75.83:5013/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
