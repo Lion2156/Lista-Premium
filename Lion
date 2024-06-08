@@ -54,8 +54,8 @@ http://181.78.75.83:5013/play/a09w/index.m3u8
 http://181.78.75.83:5013/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Canal   
 http://181.78.75.83:5013/play/a09x/index.m3u8
-#EXTINF:-1 group-title="PELICULAS", Cine Latino 
-http://181.78.105.146:6060/play/a049
+#EXTINF:-1,group-title="PELICULAS", Cine Latino
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
@@ -162,16 +162,18 @@ http://168.232.168.242:4000/play/a05e/index.m3u8
 http://168.232.168.242:4000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 http://168.232.168.242:4000/play/a05g/index.m3u8
-#EXTINF:-1,group-title="DEPORTES", ESPN DEPORTES
-https://vpngratis.win/play/Eh965qkWcPOPQDBbbK0tn3rMHBoaN3XuIRYN4nw-iEIAE_bVz3TZlllEiSm2RGDh/ts
-#EXTINF:-1 group-title="DEPORTES", FOX SPORT
+#EXTINF:-1,group-title="DEPORTES", ESPN Deporte
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+#EXTINF:-1 group-title="DEPORTES", Fox Sport
 http://gustvplay.com:8080/3Efq97fnbzWe/MtTXMtwsh2NV/375
-#EXTINF:-1 group-title="DEPORTES", FOX SPORT 2 
-http://gustvplay.com:8080/3Efq97fnbzWe/MtTXMtwsh2NV/379
-#EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
-http://pe.shortgod.com/pawor201/tv7.php?id=33
-#EXTINF:-1,group-title="DEPORTES", FOX SPORT PREMIUM
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
+#EXTINF:-1 group-title="DEPORTES", Fox Sport 2 
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158252
+#EXTINF:-1 group-title="DEPORTES", Fox Sport 3
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158835
+#EXTINF:-1,group-title="DEPORTES", Fox Deporte
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+#EXTINF:-1,group-title="DEPORTES", Fox Sport Premium
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160092
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
