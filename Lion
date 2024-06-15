@@ -117,7 +117,7 @@ https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CoQGwD2dt7A0t8Un9wor7L_40jo
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159159
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-http://181.78.75.83:5013/play/a05i/index.m3u8
+
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
