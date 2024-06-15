@@ -29,7 +29,7 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://181.78.105.146:6060/play/a03m
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159154
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
@@ -47,25 +47,27 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
 http://181.78.75.83:5013/play/a06e/index.m3u8
 #EXTINF:-1,group-title="PELICULAS", AMC 
-http://181.78.75.83:5013/play/a0aa/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159142
 #EXTINF:-1 group-title="PELICULAS", A&E  
-http://181.78.75.83:5013/play/a09w/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159148
 #EXTINF:-1 group-title="PELICULAS", AXN  
-https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CvoFundtAsimntnu5ujDIgu7IQp71MqVsyP_EbtbV75MvS69j3OhGwvJC-XyjVv8lnZArdcn3I5n0EpKh1a34dFykq9ARq13HzBdab-BGAO-nx58yBFkJkDmAFpiOchdweojzhDf5XZVjsceVmsveF2ycPObCYYrPwKqwQIdE1Y6PcMbx7h_4iS_UKq4D3yUFlmOOBIzEkbTSDsWISpnNIYhm5TkIQZlbyKaAf0xgPqUTXDYXdoJTkyxuG4eHchhH9LbxgOUoeLLZzm_FtzXUM-XF4UjZABmr-bw8nbgoNbat0DJTPcCTb05NI7XWMP2AExFPbEUZBw9KJtOmxRHv1gt1NHR2TlYuXaHGD12huBUu1V24M1owFSkI9btxVl64RP5jShQO1-u2k77nF8wfn7zLgjqf8JX2NKywqUIcxC04FEP70HQfiJ5hKSB57Arx94zWyW0qCUgNtEAh8a-iVCorMTvOJg3XDzRI9rEdXypO_GGcx0x4ioOwRKKr0ty24dacCN7h5O0tCRKdO7I-iD9yBwp-fSLixVhymFy1gz0LpJJ0nk48AUP08FklUP1v5f_uLycXleV2AlPRGH8THarm4EA1rEqqkjO5UZSFIGarWWzPNSEFasBuM2BJz9AwyAeRFvOCHLHRsBv20JriY5KlE2qYEMjvCqAVbN5FNY0rrjSSXZ4EifL73VPtnOcJem3ppZXNja9s4y5ywWyeywKAThJKn38_SLnHD3ZAm0KILmWtkHq-xFNLocqyqmua4LugmeM-0cLejANObnYyZ0C_PnuWRmlv2-TFMy0NiozdYUKdJzDc0XB0T2EYckXHV5-iMENfWJJyDt-Iq8teOiaSDLjJQgveHfqon7oaI06r5ZV5T7PXB9uKY0vB1lVQeAGmh5T-SZsMJ-xpz4x8nUvZJk2XZHX1tYkqbpkanGYqqU3jPkSB1vIzS9IcS872Gba_xsGfdvKoi6tuN4pgLWLlcIvNbcxlPfcp-CXSXBc4OtG3hQOS33n_uH9GgzmXcDiKdNRUyjZw10gASoJdXMtZWFzdC0yMNEJ.m3u8
-#EXTINF:-1 group-title="PELICULAS", Cine Canal   
-http://181.78.75.83:5013/play/a09x/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159145
+#EXTINF:-1,group-title="PELICULAS", Cine Canal
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159212
 #EXTINF:-1,group-title="PELICULAS", Cine Latino
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-http://181.78.75.83:5013/play/a08d/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159214
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
 http://38.41.8.1:8000/play/a08t
+#EXTINF:-1 group-title="PELICULAS", De Pelicula Clasico
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159219
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159220
 #EXTINF:-1 group-title="PELICULAS", FX  
 http://181.78.75.83:5013/play/a08h/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Golden 
@@ -113,7 +115,7 @@ http://181.78.75.83:5013/play/a05e/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CoQGwD2dt7A0t8Un9wor7L_40jofZ53WLgcSO8evS7dYB9A-LgWvrMcvC4WAvSIuYPLhFJPEgdFOqJ7I7SXZTF-a3gnjxEzYIrOXm18r6ulcM7gdyFFou_nYMf6lPZmWR8ySZ1BOWUWQQbI5fclgXt0Ii9ofAhy8U6YGirznqrlqyAHBpsPBVTXMMeY4QNhdc2k8qMV-cWVANVEh2ThDrSB5ZqHYUZo8KfcIJj-DVH2ZeR1eYHTicIuS4WH_FIX5keGlIOabTD792hhgciY0dTOsUxTIKzB7kzTYNNdKvRbfVST2UGVJkRkC1PKxJfXvs3gTJnh-pp_giEhMqzhnfPVEvhP6-OYwAcWxa5qt1xD-yKK18XymWBtPPSQcoTahRp1sKEeFTaMMcjoh0F1SuahE_O6MLgqs24CIjOkmyBPEhpQqWzpmXikz4XlHUu-b-08jEZZbMCgbBB0frj2oAwdJ2mM6GBQB26yf1nDbYtTBG7UAa7sKrhAyW1NS-lyJHCiqBCMqOGtDuERdhlPZ_wkCAWo4x7zvZZ6ik9eC-tZfcuqolXF0MZfuYaW0zby81Kam5TYpJUt3vtZxstlOjwVlu8JK0f_FGukhFXShJgoxOPhkaEkFeKQLI6_GTvmCF4b0OVbdNevS2oOxhFzvubXxPfurQwEs8ZQ45sqH0Jn-0qAtNhtOYLers0xbR7RAbdr18ctjQkcgLe360dkPs6Ene7ifkMPvnsDiaLKquvu4s3r5DVS9WFX1jKD4Z_I5vGpuMHEeTnkza8qDMleQ34Mrxf0_qiefSShAfHs1I69dsUn6XmuPDIt__V5C7HBzev9Z5CIN_1qfVBZ4IlnQh75TayZzMlIuYjjHegfups-AMb6LqGDYKcDp7bsE6rAxWifkGwBZbCjNDnuXzl1InrGueHO2KAgQttJ81D-QZ_DHbauCleO9M_xwe22T2bv8AtebJ-aXi0MrNmEH-pR3HL9QzH-enSsKZ5d2-uHayS1aX495DPN1-VxXYTY57om7dx1ZPZ4r8xoMkuehG1k3ylzolkInIAEqCXVzLWVhc3QtMjDRCQ.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-http://181.78.75.83:5013/play/a05g/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159159
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
 http://181.78.75.83:5013/play/a05i/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
@@ -133,13 +135,13 @@ https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CokGKPO-LFeisc_4bAI728kyu3O
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/51
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158662
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://181.78.75.83:5013/play/a09e/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158665
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://181.78.75.83:5013/play/a06f/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159121
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/105
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159127
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
