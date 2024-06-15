@@ -35,7 +35,7 @@ http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159170
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://181.78.75.83:5013/play/a06d/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159192
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://45.166.92.22:58001/play/a04o/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
@@ -43,7 +43,7 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159207
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
 http://181.78.75.83:5013/play/a06e/index.m3u8
 #EXTINF:-1,group-title="PELICULAS", AMC 
@@ -79,11 +79,11 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159227
 #EXTINF:-1 group-title="PELICULAS", Golden Premer 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159229
 #EXTINF:-1 group-title="PELICULAS", HBO 
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/198
+
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/199
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159235
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
-http://pe.shortgod.com/pawor201/tv5.php?id=159238
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159238
 #EXTINF:-1 group-title="PELICULAS", HBO Family
 http://pe.shortgod.com/pawor201/tv5.php?id=159241
 #EXTINF:-1 group-title="PELICULAS", MC
@@ -94,18 +94,18 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 http://181.78.105.146:6060/play/a048
 #EXTINF:-1 group-title="PELICULAS", Paramount Channel
 http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:-1 group-title="PELICULAS", Panico 
-http://pe.shortgod.com/pawor201/tv5.php?id=159250
+#EXTINF:-1 group-title="PELICULAS", Panico HD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158791
 #EXTINF:-1 group-title="PELICULAS", Sony  
-http://45.166.92.22:58001/play/a04a/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159201
 #EXTINF:-1 group-title="PELICULAS", Space 
-http://181.78.75.83:5013/play/a0a1/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159256
 #EXTINF:-1 group-title="PELICULAS", Star Channel   
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", TNT   
-https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CoEGHBO07E2jJyoDgrSFmK-8wAhedB7pac_HZde87JDgDiSPybicaxtm0EVayYcOmSX4oDQmP-Zp0sfG3wWRqUyc3oWw0x9EQO6YVsM3CCCPQzdsR9x1IITbC_Jrks5TpEy4xdw3sfnyHB7Nn5MzbKXRA97cM06fmXutnCwLpVx6AlaQrzROJf1EKgZRN7D820xCxf19tRfAGOtU62-HXJoMQexiEZpDUiX9BekZcAhlHtQw_0PW3lBKPUn4pDxrG7aN-_KiCQmb_XIR-vOaYQ4G4JVj3KwlzMgCFsDdUDQdAxOKm5ngSQRbVTrDBFfer8pIlBEdxHPfSOT79k0POBpO0BReCwSHAfCzIy7V8MUI-LiPcADORNrMgsf5OOPx9scr50Lg1HM_wEt25mawZB4ouYnRCtd8yuba-nLPp2AJvD4Bro2mUp2Mgpphj0CN8I4DDWKug52vyXCAkiMN8bEl_4MwDmCPLciJ_L2uSddR0LqUaM3sI3-siXqgSmARsNZDf9ATOZFdG2hS6kJm93etcvRvlckQruNVpGq2nXf9yqjOy4GLKE83wB2StKjm-gXY3Zvimqw58t-PSy-GQZc8wVQY2CQlOBPOsKx4f3raxfBRFqy-jmy5gbC8nOKKXutwqVODN6sDeT4gYBAcpq2zuxU55fKHLOel7PdDLTjjXu-D4uqN1VueVvBp40gEmrdPeR4yoog3LC-5M1sh9-6vp64Uleaod908oHCUnS2Lodwg8KRmQx3DQKyzfSe62XIrigCyBY-y4oOK6WV5LqINcSWSM1BYuHOAYmGSWAa7ktYDLfHRDJu5swM0_cFnITa-7DzYcx9DrzrqNcPc0nM7edk-eZ7_8x8lcQymN57-ElH0ObooxUjT8O2lS59PVy7H63q0QjIc-FS7sevaswotxbu8Ws64pL9sxeZtAXQ4qfg1W7xeB1_CiufnFNgNnIfiFvWEIuVkA3QT4MbWW5GIslSmI6rc343KlWyBUAHh6_-VCLjOEd8z_qEIOAo8gSXIHRoM_z3msyIOqkI3HAuqIAEqCXVzLWVhc3QtMjDRCQ.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159262
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
 http://181.78.75.83:5013/play/a05y/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
@@ -131,7 +131,7 @@ http://181.78.75.83:5013/play/a09y/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-https://video-weaver.qro04.hls.ttvnw.net/v1/playlist/CokGKPO-LFeisc_4bAI728kyu3ODLCwY19p_vOcRc8mQqcbpY5V67E_FJZh5Eb-ehovp8XZAu75ySNEisVTlN0MvwAg0gv8elahBUxZFsoNnuVzLsq_F8q4LqZiEJrbcnRcyshy7Wlpf62-dKFK3zF0C8T75Jp0UeYyuqG7_wKnEQzFkuUczbQg-2nxraEtF7mdlB1X9f6sUj76IQxxvx_qadsdnpPcdqDSIEaeJc_msTqLKBo3Iey_q8VHgZIG_vqLOeYQtS6MkXOwXaEtilIngT_XtLyvI4ySTr-jKyWnYHMvSAlsfzMora8Mb_3HWJYk0Q1P_el3djBfksKU529QxSIOS6dToZu8BEeC-VNXqUkctI9IWuTvT3oiHB8b7BINZsbDrv8pjmeNe5AqzkfQbWCBW4QPfV8ftLYcqgXluinllmjfb9HW3Y04JYcsDHhdylnWtwkGK8_Te2kUcOaRR6aYJ-4eYxF64RZa0oo59yckJg9Is3yoBBpocS7EDq-N1J5-1YSAovrWOpDV1pZwUe9lxJ7RKhf5-l_78FC53gxZvFaDg8Ui54hHDzXI9wqfghIzwn38h3Tgms5eP7PDvvEw2sVDynseDHqKoNgm9PRls8EXZTQqPXtldrMCkNg6rVBer_DTkEkK_7nBjxTVSKhk9b4fWNhIRhKNesxPzncsbBKOJvWil4Oek63VyH1Ax80cIVMInwWeJsPQjLJ3_0Uvv59OHZFEBtU_2x9yMwJlo6G7CXbgiNcLAOcnbCWnqg5rXyFu_rZ5mMd9IyXmUqE9Xaw1P-qWGMgOsUDCtkQ0yAPUcqTq7qjyawzOGuSiqrYuVh5aFFg5O-L_f0O46xShmnWOoCi1GX9yOrVOhr37IaoeA4AQcfPZGfft-KsmC-zO8l-G3FKqaQ5IBlvHQSP2hoM2j4yeaIJNNtCPX-DdZ7fVXhznp_CqfeJf2_LZ4WC-hL0Y_aGoiNSQaY2d9emMKuIyyMTKOj1nLP13WF3uPg2ZOjYkUTolE3FxVdsAomzPhNRCyu6sLGgxzExYjFs-eX7RUTdMgASoJdXMtZWFzdC0yMNEJ.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159371
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
@@ -147,7 +147,7 @@ http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
 http://181.78.75.83:5013/play/a05u/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://181.78.75.83:5013/play/a08p/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159137
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
 http://181.78.105.146:6060/play/a02a
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
