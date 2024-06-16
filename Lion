@@ -117,15 +117,15 @@ http://38.41.8.1:8000/play/a02y
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159159
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-
+http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
-http://181.78.75.83:5013/play/a05l/index.m3u8
+http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
 http://38.41.8.1:8000/play/a068
 #EXTINF:-1 group-title="CULTURA", Discovery World 
-http://181.78.75.83:5013/play/a05m/index.m3u8
+http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159367
 #EXTINF:-1 group-title="CULTURA", History 2 
