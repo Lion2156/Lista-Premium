@@ -152,8 +152,6 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159137
 http://181.78.105.146:6060/play/a02a
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1,group-title="DEPORTES", MLB 
-https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
