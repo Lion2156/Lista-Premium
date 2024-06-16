@@ -21,7 +21,7 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159079
 #EXTINF:-1 group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
-https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158620
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="NOTICIAS", NMás 
@@ -145,7 +145,7 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159127
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://181.78.75.83:5013/play/a05u/index.m3u8
+http://38.41.8.1:8000/play/a00i
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159137
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
