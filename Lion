@@ -45,7 +45,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159207
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
-http://181.78.75.83:5013/play/a06e/index.m3u8
+http://38.41.8.1:8000/play/a057
 #EXTINF:-1,group-title="PELICULAS", AMC 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159142
 #EXTINF:-1 group-title="PELICULAS", A&E  
@@ -107,9 +107,9 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", TNT   
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159262
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
-http://181.78.75.83:5013/play/a05y/index.m3u8
+http://38.41.8.1:8000/play/a01a
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
-http://181.78.75.83:5013/play/a0a4/index.m3u8
+http://38.41.8.1:8000/play/a008
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://181.78.75.83:5013/play/a05e/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
