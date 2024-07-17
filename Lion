@@ -9,7 +9,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/46.ts
 #EXTINF:-1 group-title="https://i.imgur.com/vpXleBr.png" group-title="NACIONAL", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
@@ -117,7 +118,8 @@ http://38.41.8.1:8000/play/a02y
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159159
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/92.ts
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
@@ -157,17 +159,19 @@ https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-https://sdmx.vip:443/belpley/sYqKZQrTZa/219099
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/120.ts
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10962
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 https://sdmx.vip:443/belpley/sYqKZQrTZa/155475
 #EXTINF:-1,group-title="DEPORTES", ESPN Deporte
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2218544
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/128.ts
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158832
 #EXTINF:-1 group-title="DEPORTES", Fox Sport
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10951
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 2 
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10952
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 3
@@ -175,7 +179,7 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
 #EXTINF:-1,group-title="DEPORTES", Fox Deporte
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2216927
 #EXTINF:-1,group-title="DEPORTES", Fox Sport Premium
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10915
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
