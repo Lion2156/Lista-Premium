@@ -30,15 +30,15 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159154
+http://38.41.8.1:8000/play/a00z
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159170
+http://38.41.8.1:8000/play/a02c
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159192
+http://38.41.8.1:8000/play/a056
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
-http://45.166.92.22:58001/play/a04o/index.m3u8
+http://38.41.8.1:8000/play/a07y
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
@@ -48,11 +48,11 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159207
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
 http://38.41.8.1:8000/play/a057
 #EXTINF:-1,group-title="PELICULAS", AMC 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159142
+http://38.41.8.1:8000/play/a01s
 #EXTINF:-1 group-title="PELICULAS", A&E  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159148
+http://38.41.8.1:8000/play/a006
 #EXTINF:-1 group-title="PELICULAS", AXN  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159145
+http://38.41.8.1:8000/play/a009
 #EXTINF:-1,group-title="PELICULAS", Cine Canal
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159212
 #EXTINF:-1,group-title="PELICULAS", Cine Latino
@@ -60,7 +60,7 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159214
+http://38.41.8.1:8000/play/a00y
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
@@ -70,21 +70,21 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159219
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159220
 #EXTINF:-1 group-title="PELICULAS", FX  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159180
+http://38.41.8.1:8000/play/a01h
 #EXTINF:-1 group-title="PELICULAS", Golden 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158783
 #EXTINF:-1 group-title="PELICULAS", Golden EDGE 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159225
 #EXTINF:-1 group-title="PELICULAS", Golden Plus  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159227
+http://38.41.8.1:8000/play/a028
 #EXTINF:-1 group-title="PELICULAS", Golden Premer 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159229
 #EXTINF:-1 group-title="PELICULAS", HBO 
 http://38.41.8.1:8000/play/a01u
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159235
+http://38.41.8.1:8000/play/a021
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159238
+http://38.41.8.1:8000/play/a05i
 #EXTINF:-1 group-title="PELICULAS", HBO Family
 http://38.41.8.1:8000/play/a031
 #EXTINF:-1 group-title="PELICULAS", MC
@@ -94,17 +94,17 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
 http://181.78.105.146:6060/play/a048
 #EXTINF:-1 group-title="PELICULAS", Paramount Channel
-http://45.166.92.22:58001/play/a01l/index.m3u8
+http://38.41.8.1:8000/play/a01x
 #EXTINF:-1 group-title="PELICULAS", Panico HD
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158791
 #EXTINF:-1 group-title="PELICULAS", Sony  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159201
+http://38.41.8.1:8000/play/a007
 #EXTINF:-1 group-title="PELICULAS", Space 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159256
+http://38.41.8.1:8000/play/a00a
 #EXTINF:-1 group-title="PELICULAS", Star Channel   
-http://45.166.92.22:58001/play/a048/index.m3u8
+http://38.41.8.1:8000/play/a019
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
-http://45.166.92.22:58001/play/a00k/index.m3u8
+http://38.41.8.1:8000/play/a01y
 #EXTINF:-1 group-title="PELICULAS", TNT   
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159262
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
@@ -116,40 +116,40 @@ http://38.41.8.1:8000/play/a023
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 http://38.41.8.1:8000/play/a02y
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159159
+http://38.41.8.1:8000/play/a017
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/92.ts
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
-http://45.166.92.22:58001/play/a014/index.m3u8
+http://38.41.8.1:8000/play/a018
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
 http://38.41.8.1:8000/play/a068
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159367
+http://38.41.8.1:8000/play/a005
 #EXTINF:-1 group-title="CULTURA", History 2 
-http://45.166.92.22:58001/play/a04x/index.m3u8
+http://38.41.8.1:8000/play/a030
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159371
+http://38.41.8.1:8000/play/a01p
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158662
+http://38.41.8.1:8000/play/a01w
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158665
+http://38.41.8.1:8000/play/a058
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159121
+http://38.41.8.1:8000/play/a00q
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159127
+http://38.41.8.1:8000/play/a05l
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
 http://38.41.8.1:8000/play/a00i
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159137
+http://38.41.8.1:8000/play/a067
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
 http://181.78.105.146:6060/play/a02a
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
