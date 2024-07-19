@@ -9,20 +9,19 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/46.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/162239
 #EXTINF:-1 group-title="https://i.imgur.com/vpXleBr.png" group-title="NACIONAL", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159090
 #EXTINF:-1 group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10608
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/165327
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="NOTICIAS", NMás 
@@ -30,66 +29,61 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://38.41.8.1:8000/play/a00z
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159153
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/111.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159169
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
-http://38.41.8.1:8000/play/a02c
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159172
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://38.41.8.1:8000/play/a056
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159191
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://38.41.8.1:8000/play/a07y
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://181.78.105.146:2000/play/a08d/index.m3u8
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159095
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159207
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159208
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
 http://38.41.8.1:8000/play/a057
 #EXTINF:-1,group-title="PELICULAS", AMC 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/7.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159144
 #EXTINF:-1 group-title="PELICULAS", A&E  
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159150
 #EXTINF:-1 group-title="PELICULAS", AXN  
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/15.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159145
 #EXTINF:-1,group-title="PELICULAS", Cine Canal
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/63.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159212
 #EXTINF:-1,group-title="PELICULAS", Cine Latino
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159213
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-http://38.41.8.1:8000/play/a00y
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159216
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
-http://38.41.8.1:8000/play/a08t
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159218
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Clasico
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159219
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159219
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/77.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159220
 #EXTINF:-1 group-title="PELICULAS", FX  
-http://38.41.8.1:8000/play/a01h
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159181
 #EXTINF:-1 group-title="PELICULAS", Golden 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158783
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159221
 #EXTINF:-1 group-title="PELICULAS", Golden EDGE 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159225
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159225
 #EXTINF:-1 group-title="PELICULAS", Golden Plus  
-http://38.41.8.1:8000/play/a028
-#EXTINF:-1 group-title="PELICULAS", Golden Premer 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159229
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159228
+#EXTINF:-1 group-title="PELICULAS", Golden Premier 
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159230
 #EXTINF:-1 group-title="PELICULAS", HBO 
-http://38.41.8.1:8000/play/a01u
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159234
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-http://38.41.8.1:8000/play/a021
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159237
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
-http://38.41.8.1:8000/play/a05i
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159239
 #EXTINF:-1 group-title="PELICULAS", HBO Family
 http://38.41.8.1:8000/play/a031
 #EXTINF:-1 group-title="PELICULAS", MC
@@ -99,22 +93,21 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
 http://181.78.105.146:6060/play/a048
 #EXTINF:-1 group-title="PELICULAS", Paramount Channel
-http://38.41.8.1:8000/play/a01x
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159253
 #EXTINF:-1 group-title="PELICULAS", Panico HD
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158791
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158791
 #EXTINF:-1 group-title="PELICULAS", Sony  
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/62.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159201
 #EXTINF:-1 group-title="PELICULAS", Space 
-http://38.41.8.1:8000/play/a00a
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159256
 #EXTINF:-1 group-title="PELICULAS", Star Channel   
-http://38.41.8.1:8000/play/a019
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159199
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
-http://38.41.8.1:8000/play/a01y
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159260
 #EXTINF:-1 group-title="PELICULAS", TNT   
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159262
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159262
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
-http://38.41.8.1:8000/play/a01a
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159266
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
 http://38.41.8.1:8000/play/a008
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
@@ -124,7 +117,7 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/9.ts
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/86.ts
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-http://38.41.8.1:8000/play/a017
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159158
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/92.ts
@@ -134,37 +127,34 @@ http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/98.ts
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/100.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159166
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://38.41.8.1:8000/play/a005
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158861
 #EXTINF:-1 group-title="CULTURA", History 2 
-http://38.41.8.1:8000/play/a030
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159370
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://38.41.8.1:8000/play/a01p
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159373
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://pe.shortgod.com/pawor201/tv5.php?id=158864
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/51.ts
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/95.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158665
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/102.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159122
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://38.41.8.1:8000/play/a05l
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159129
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://38.41.8.1:8000/play/a00i
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159130
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://38.41.8.1:8000/play/a067
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159137
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://181.78.105.146:6060/play/a02a
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159134
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
@@ -172,25 +162,23 @@ https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/120.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/155904
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10962
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159321
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-https://sdmx.vip:443/belpley/sYqKZQrTZa/155475
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/155897
 #EXTINF:-1,group-title="DEPORTES", ESPN Deporte
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/128.ts
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159325
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158832
 #EXTINF:-1 group-title="DEPORTES", Fox Sport
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 2 
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10952
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158834
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 3
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
 #EXTINF:-1,group-title="DEPORTES", Fox Deporte
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2216927
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158838
 #EXTINF:-1,group-title="DEPORTES", Fox Sport Premium
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
 #EXTINF:-1 group-title="RELIGION", Enlace
