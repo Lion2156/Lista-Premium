@@ -35,7 +35,7 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159169
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159172
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159191
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159193
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://38.41.8.1:8000/play/a07y
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
@@ -45,7 +45,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159208
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
-http://38.41.8.1:8000/play/a057
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159739
 #EXTINF:-1,group-title="PELICULAS", AMC 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159144
 #EXTINF:-1 group-title="PELICULAS", A&E  
@@ -109,13 +109,15 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159262
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159266
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
-http://38.41.8.1:8000/play/a008
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/163493
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/9.ts
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/86.ts
+#EXTINF:-1,group-title="TV PREMIUM", Discovery Familia
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159157
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159158
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
@@ -137,7 +139,7 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159370
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159373
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
-http://pe.shortgod.com/pawor201/tv5.php?id=158864
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/161263
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/51.ts
@@ -158,9 +160,9 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159134
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
-https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159343
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://tvmate.icu:8080/Alan/Alan1234/82241
+http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/162308
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/155904
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
