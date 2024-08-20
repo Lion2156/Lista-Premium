@@ -45,7 +45,9 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159095
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159208
+http://bgtv.xyz/play/play-802.php?tlat=63&token=fdasdfgasdg
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159739
 #EXTINF:-1,group-title="PELICULAS", AMC 
