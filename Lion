@@ -9,9 +9,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
-http://bgtv.xyz/play/play-802.php?tlat=2&token=fdasdfgasdg
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/46.ts
 #EXTINF:-1 group-title="https://i.imgur.com/vpXleBr.png" group-title="NACIONAL", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
