@@ -9,7 +9,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
-http://bgtv.xyz/play/play-810.php?ul=14&token=asfasdf
+http://streamsy.online:2999/happy2024/newyear/1457
 #EXTINF:-1 group-title="https://i.imgur.com/vpXleBr.png" group-title="NACIONAL", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
@@ -29,7 +29,7 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://bgtv.xyz/play/play-810.php?ul=480&token=asfasdf
+http://streamsy.online:2999/happy2024/newyear/23
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
 http://bgtv.xyz/play/play-810.php?ul=32&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
