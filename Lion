@@ -17,7 +17,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159090
 #EXTINF:-1 group-title="NOTICIAS", Foro TV 
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+http://bgtv.xyz/play/play-810.php?ul=1543&token=asfasdf
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
@@ -29,49 +29,47 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159153
+http://bgtv.xyz/play/play-810.php?ul=480&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159169
+http://bgtv.xyz/play/play-810.php?ul=32&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159172
+http://bgtv.xyz/play/play-810.php?ul=483&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159193
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
-http://38.41.8.1:8000/play/a07y
+http://bgtv.xyz/play/play-810.php?ul=87&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159095
+http://bgtv.xyz/play/play-810.php?ul=94&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TruTV  
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
+http://bgtv.xyz/play/play-810.php?ul=501&token=asfasdf
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-http://bgtv.xyz/play/play-802.php?tlat=63&token=fdasdfgasdg
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+http://bgtv.xyz/play/play-810.php?ul=653&token=asfasdf
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159739
+http://bgtv.xyz/play/play-810.php?ul=648&token=asfasdf
 #EXTINF:-1,group-title="PELICULAS", AMC 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159144
+http://bgtv.xyz/play/play-810.php?ul=475&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", A&E  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159150
+http://bgtv.xyz/play/play-810.php?ul=474&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", AXN  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159145
+http://bgtv.xyz/play/play-810.php?ul=146&token=asfasdf
 #EXTINF:-1,group-title="PELICULAS", Cine Canal
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159212
+http://bgtv.xyz/play/play-810.php?ul=479&token=asfasdf
 #EXTINF:-1,group-title="PELICULAS", Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cine Mexcano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Cinemax  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159216
+http://bgtv.xyz/play/play-810.php?ul=638&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
-https://bgtv.xyz/play/2-802.php?idch=21
+http://bgtv.xyz/play/play-802.php?ul=21&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Clasico
 https://bgtv.xyz/play/2-802.php?idch=1545
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
-https://bgtv.xyz/play/2-802.php?idch=1544
+http://bgtv.xyz/play/play-802.php?ul=1544&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", FX  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159181
+http://bgtv.xyz/play/play-810.php?ul=495&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Golden 
 http://bgtv.xyz/play/play-810.php?ul=57&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Golden EDGE 
@@ -81,13 +79,13 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159228
 #EXTINF:-1 group-title="PELICULAS", Golden Premier 
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159230
 #EXTINF:-1 group-title="PELICULAS", HBO 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159234
+http://bgtv.xyz/play/play-810.php?ul=654&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", HBO 2 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159237
+http://bgtv.xyz/play/play-810.php?ul=732&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", HBO PLUS  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159239
+http://bgtv.xyz/play/play-810.php?ul=655&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", HBO Family
-http://38.41.8.1:8000/play/a031
+http://bgtv.xyz/play/play-810.php?ul=63&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="PELICULAS", Mx Prime
@@ -95,96 +93,91 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", Multipremier 
 http://181.78.105.146:6060/play/a048
 #EXTINF:-1 group-title="PELICULAS", Paramount Channel
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159253
+http://bgtv.xyz/play/play-810.php?ul=200&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Panico HD
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158791
 #EXTINF:-1 group-title="PELICULAS", Sony  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159201
+http://bgtv.xyz/play/play-810.php?ul=498&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Space 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159256
+http://bgtv.xyz/play/play-810.php?ul=499&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Star Channel   
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159199
+http://bgtv.xyz/play/play-810.php?ul=489&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Studio Universal 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159260
+http://bgtv.xyz/play/play-810.php?ul=84&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", TNT   
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159262
+http://bgtv.xyz/play/play-810.php?ul=500&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Universal Channel
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159266
+http://bgtv.xyz/play/play-810.php?ul=137&token=asfasdf
 #EXTINF:-1 group-title="PELICULAS", Warner Channel 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/163493
+http://bgtv.xyz/play/play-810.php?ul=503&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/9.ts
+http://bgtv.xyz/play/play-810.php?ul=633&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/86.ts
+http://bgtv.xyz/play/play-810.php?ul=639&token=asfasdf
 #EXTINF:-1,group-title="TV PREMIUM", Discovery Familia
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159157
+
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159158
+http://bgtv.xyz/play/play-810.php?ul=640&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/92.ts
+http://bgtv.xyz/play/play-810.php?ul=825&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://181.78.75.83:5013/play/a05k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/98.ts
+http://bgtv.xyz/play/play-810.php?ul=27&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159166
+http://bgtv.xyz/play/play-810.php?ul=28&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Discovery World 
-http://45.166.92.22:58001/play/a01p/index.m3u8
+http://bgtv.xyz/play/play-810.php?ul=187&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158861
+http://bgtv.xyz/play/play-810.php?ul=642&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", History 2 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159370
+http://bgtv.xyz/play/play-810.php?ul=61&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159373
+http://bgtv.xyz/play/play-810.php?ul=76&token=asfasdf
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/161263
+http://bgtv.xyz/play/play-810.php?ul=77&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/51.ts
+http://bgtv.xyz/play/play-810.php?ul=637&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158665
+http://bgtv.xyz/play/play-810.php?ul=641&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159122
+http://bgtv.xyz/play/play-810.php?ul=29&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159129
+http://bgtv.xyz/play/play-810.php?ul=826&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", Disney XD
 http://168.232.168.242:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159130
+http://bgtv.xyz/play/play-810.php?ul=78&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159137
+http://bgtv.xyz/play/play-810.php?ul=79&token=asfasdf
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159134
+http://bgtv.xyz/play/play-810.php?ul=882&token=asfasdf
 #EXTINF:-1 group-title="DEPORTES", Claro Sport 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159343
+http://bgtv.xyz/play/play-810.php?ul=698&token=asfasdf
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/162308
+http://bgtv.xyz/play/play-810.php?ul=86&token=asfasdf
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/155904
+http://bgtv.xyz/play/play-810.php?ul=486&token=asfasdf
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159321
+http://bgtv.xyz/play/play-810.php?ul=531&token=asfasdf
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/155897
+http://bgtv.xyz/play/play-810.php?idch=485&token=asfasdf
 #EXTINF:-1,group-title="DEPORTES", ESPN Deporte
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159325
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158832
+http://38.41.8.1:8000/play/a02z
 #EXTINF:-1 group-title="DEPORTES", Fox Sport
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+http://bgtv.xyz/play/play-810.php?ul=527&token=asfasdf
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 2 
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158834
+http://bgtv.xyz/play/play-810.php?ul=528&token=asfasdf
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 3
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+http://bgtv.xyz/play/play-810.php?ul=54&token=asfasdf
 #EXTINF:-1,group-title="DEPORTES", Fox Deporte
 http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158838
 #EXTINF:-1,group-title="DEPORTES", Fox Sport Premium
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+http://bgtv.xyz/play/play-810.php?ul=512&token=asfasdf
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
