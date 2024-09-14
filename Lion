@@ -166,6 +166,8 @@ http://streamsy.online:2999/happy2024/newyear/91
 http://streamsy.online:2999/happy2024/newyear/528
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://38.41.8.1:8000/play/a02z
+#EXTINF:-1 group-title="DEPORTES", F1 Formula 1
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/295663.ts
 #EXTINF:-1 group-title="DEPORTES", Fox Sport
 http://streamsy.online:2999/happy2024/newyear/92
 #EXTINF:-1 group-title="DEPORTES", Fox Sport 2 
