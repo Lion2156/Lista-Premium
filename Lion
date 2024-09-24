@@ -61,7 +61,7 @@ http://streamsy.online:2999/happy2024/newyear/82
 #EXTINF:-1 group-title="PELICULAS", Cine Premium 
 
 #EXTINF:-1 group-title="PELICULAS", De Pelicula 
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/131.ts
+http://38.41.8.1:8000/play/a08t
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Clasico
 http://streamsy.online:2999/happy2024/newyear/85
 #EXTINF:-1 group-title="PELICULAS", De Pelicula Plus 
