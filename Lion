@@ -150,7 +150,7 @@ http://streamsy.online:2999/happy2024/newyear/48
 http://streamsy.online:2999/happy2024/newyear/45
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
 http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1556
-#EXTINF:-1 group-title="DEPORTES", Claro Sport 
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/272088.ts
@@ -168,15 +168,15 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/292943.ts
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/295663.ts
-#EXTINF:-1 group-title="DEPORTES", Fox Sport
+#EXTINF:-1 group-title="DEPORTES", Fox Sports
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/289412.ts
-#EXTINF:-1 group-title="DEPORTES", Fox Sport 2 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/48.ts
-#EXTINF:-1 group-title="DEPORTES", Fox Sport 3
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/27983.ts
-#EXTINF:-1,group-title="DEPORTES", Fox Deportes
+#EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/9632.ts
-#EXTINF:-1,group-title="DEPORTES", Fox Sport Premium
+#EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/301428.ts
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
