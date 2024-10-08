@@ -90,8 +90,6 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/301442.ts
 http://streamsy.online:2999/happy2024/newyear/119
 #EXTINF:-1 group-title="CINE", MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="CINE", Mx Prime
-
 #EXTINF:-1 group-title="CINE", Multipremier 
 http://181.78.105.146:8800/play/a06w
 #EXTINF:-1 group-title="CINE", Paramount Channel
