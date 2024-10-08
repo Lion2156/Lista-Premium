@@ -40,6 +40,8 @@ http://streamsy.online:2999/happy2024/newyear/64
 http://streamsy.online:2999/happy2024/newyear/65
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://streamsy.online:2999/happy2024/newyear/40
+#EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
+http://streamsy.online:2999/happy2024/newyear/54
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://streamsy.online:2999/happy2024/newyear/24
 #EXTINF:-1 group-title="CINE", SyFy  
