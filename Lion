@@ -19,7 +19,7 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
 #EXTINF:-1 group-title="NOTICIAS", Foro TV 
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/59.ts
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
-http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/232388.ts
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
 http://181.78.22.27:8098/play/a0e6/index. m3u8
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
@@ -31,7 +31,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://streamsy.online:2999/happy2024/newyear/23
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://streamsy.online:2999/happy2024/newyear/38
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/1505.ts
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://streamsy.online:2999/happy2024/newyear/30
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
@@ -55,7 +55,7 @@ http://streamsy.online:2999/happy2024/newyear/73
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/264237.ts
 #EXTINF:-1,group-title="CINE", Cine Latino
-http://45.166.92.22:58001/play/a02c/index.m3u8
+http://181.78.105.146:8800/play/a06x
 #EXTINF:-1 group-title="CINE", Cine Mexicano
 
 #EXTINF:-1 group-title="CINE", Cinemax  
@@ -65,7 +65,7 @@ http://streamsy.online:2999/happy2024/newyear/82
 #EXTINF:-1 group-title="CINE", De Pelicula 
 http://38.41.8.1:8000/play/a08t
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
-http://streamsy.online:2999/happy2024/newyear/85
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/245528.ts
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
 http://streamsy.online:2999/happy2024/newyear/1699
 #EXTINF:-1 group-title="CINE", FX  
@@ -91,7 +91,7 @@ http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="CINE", Mx Prime
 
 #EXTINF:-1 group-title="CINE", Multipremier 
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1546
+http://181.78.105.146:8800/play/a06w
 #EXTINF:-1 group-title="CINE", Paramount Channel
 http://streamsy.online:2999/happy2024/newyear/1166
 #EXTINF:-1 group-title="CINE", Panico HD
@@ -151,7 +151,7 @@ http://streamsy.online:2999/happy2024/newyear/48
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://streamsy.online:2999/happy2024/newyear/45
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1556
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/152.ts
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
