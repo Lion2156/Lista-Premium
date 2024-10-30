@@ -19,15 +19,13 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
 #EXTINF:-1 group-title="NOTICIAS", Foro TV 
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/59.ts
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
 http://streamsy.online:2999/happy2024/newyear/1695
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
 http://190.60.32.178:8178/play/a083/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="NOTICIAS", NMás 
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
@@ -60,8 +58,8 @@ http://streamsy.online:2999/happy2024/newyear/73
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/264237.ts
 #EXTINF:-1,group-title="CINE", Cine Latino
 http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/62
-#EXTINF:-1 group-title="CINE", Cine Mexicano
-
+#EXTINF:-1 group-title="CINE", Cine Hispano
+http://45.175.139.194:8000/play/35
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://streamsy.online:2999/happy2024/newyear/82
 #EXTINF:-1 group-title="CINE", Cine Premium 
