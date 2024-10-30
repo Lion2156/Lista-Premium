@@ -56,10 +56,10 @@ http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/134672
 http://streamsy.online:2999/happy2024/newyear/73
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/264237.ts
-#EXTINF:-1,group-title="CINE", Cine Latino
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/62
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
+#EXTINF:-1,group-title="CINE", Cine Latino
+http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/62
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://streamsy.online:2999/happy2024/newyear/82
 #EXTINF:-1 group-title="CINE", Cine Premium 
