@@ -17,8 +17,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
-#EXTINF:-1 group-title="NOTICIAS", Foro TV 
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158635
+#EXTINF:-1 group-title="NOTICIAS", N+Foro 
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
 http://streamsy.online:2999/happy2024/newyear/1695
@@ -31,7 +31,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://streamsy.online:2999/happy2024/newyear/23
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/150325
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278416
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://streamsy.online:2999/happy2024/newyear/30
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
@@ -51,7 +51,7 @@ http://streamsy.online:2999/happy2024/newyear/78
 #EXTINF:-1 group-title="CINE", A&E  
 http://streamsy.online:2999/happy2024/newyear/20
 #EXTINF:-1 group-title="CINE", AXN  
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/134672
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278386
 #EXTINF:-1,group-title="CINE", Cine Canal
 http://streamsy.online:2999/happy2024/newyear/73
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
@@ -59,7 +59,7 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/264237.ts
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/62
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278460
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://streamsy.online:2999/happy2024/newyear/82
 #EXTINF:-1 group-title="CINE", Cine Premium 
@@ -85,7 +85,7 @@ http://streamsy.online:2999/happy2024/newyear/120
 #EXTINF:-1 group-title="CINE", HBO 2 
 http://streamsy.online:2999/happy2024/newyear/121
 #EXTINF:-1 group-title="CINE", HBO PLUS  
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/7986
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278489
 #EXTINF:-1 group-title="CINE", HBO Family
 http://streamsy.online:2999/happy2024/newyear/119
 #EXTINF:-1 group-title="CINE", MC
@@ -95,7 +95,7 @@ http://181.78.105.146:8800/play/a06w
 #EXTINF:-1 group-title="CINE", Paramount Channel
 http://streamsy.online:2999/happy2024/newyear/1166
 #EXTINF:-1 group-title="CINE", Panico HD
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/146602
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278511
 #EXTINF:-1 group-title="CINE", Sony  
 http://streamsy.online:2999/happy2024/newyear/16
 #EXTINF:-1 group-title="CINE", Space 
@@ -125,7 +125,7 @@ http://streamsy.online:2999/happy2024/newyear/110
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://streamsy.online:2999/happy2024/newyear/56
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/132587
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/165462
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://streamsy.online:2999/happy2024/newyear/59
 #EXTINF:-1 group-title="CULTURA", History Channel 
@@ -135,9 +135,9 @@ http://streamsy.online:2999/happy2024/newyear/289
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
 http://streamsy.online:2999/happy2024/newyear/63
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/148692
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/149673
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278526
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
 http://streamsy.online:2999/happy2024/newyear/43
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
@@ -151,33 +151,33 @@ http://streamsy.online:2999/happy2024/newyear/48
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://streamsy.online:2999/happy2024/newyear/45
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/149684
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278550
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
 http://streamsy.online:2999/happy2024/newyear/1488
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/146837
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/282261
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/262184.ts
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278578
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/262174.ts
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/277642
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/27980.ts
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278580
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/145416
+http://supersonictv.live:8080/329474/903964/22222
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/145436
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/167874
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/145435
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278597
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/140386
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278597
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/145434
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278594
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
-http://1.84423.xyz:8000/4ZAZ3RHASZ/2HD28TBYY1/134468
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/180912
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
 #EXTINF:-1 group-title="RELIGION", Enlace
