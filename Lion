@@ -55,17 +55,19 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/31755.ts
 #EXTINF:-1,group-title="CINE", Cine Canal
 http://streamsy.online:2999/happy2024/newyear/73
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
-https://veotv.site:8443/play/nToIdRdWmk4ail0xeuzxHVt-Egs43QV7oRRVz113d0k/ts
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158780
+#EXTINF:-1,group-title="CINE", Cine Familiar
+http://45.175.139.194:8000/play/33
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278460
 #EXTINF:-1 group-title="CINE", Cinemax  
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278468
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
-
+http://45.175.139.194:8000/play/37
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
 
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
@@ -106,6 +108,8 @@ http://streamsy.online:2999/happy2024/newyear/15
 http://home-playtv.com:8080/Granav30/ZPETU@@2/19572
 #EXTINF:-1 group-title="CINE", TNT   
 http://home-playtv.com:8080/Granav30/ZPETU@@2/158465
+#EXTINF:-1 group-title="CINE", The Film Zone
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/168599
 #EXTINF:-1 group-title="CINE", Universal Channel
 http://streamsy.online:2999/happy2024/newyear/18
 #EXTINF:-1 group-title="CINE", Warner Channel 
@@ -151,7 +155,7 @@ http://streamsy.online:2999/happy2024/newyear/48
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://streamsy.online:2999/happy2024/newyear/45
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-http://emmaultra.xyz:8080/live/JokJok/qETRahtG2x/59573.m3u8
+http://181.78.105.146:8800/play/a04l
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
@@ -188,8 +192,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1,group-title="SERIES TV", El chavo del 8
 http://home-playtv.com:8080/Granav30/ZPETU@@2/216295
-#EXTINF:-1,group-title="SERIES TV", Chespirito
-http://5tgvb.art:2052/crplay30/crplay30247vip/53986
+
 
 
 
