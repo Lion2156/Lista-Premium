@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/g5ShxZ7.png" group-title="NACIONAL", Canal De Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
-https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158626
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
 http://streamsy.online:2999/happy2024/newyear/1457
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 6
@@ -17,7 +17,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
-http://home-playtv.com:8080/Granav30/ZPETU@@2/415388
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278360
 #EXTINF:-1 group-title="NOTICIAS", N+Foro 
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
@@ -45,7 +45,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123480
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://streamsy.online:2999/happy2024/newyear/24
 #EXTINF:-1 group-title="CINE", SyFy  
-http://newultra.xyz:8080/981611612tv/28hdsnk2/59549
+http://lunar.pm:8080/RandyJ2/randy/120154
 #EXTINF:-1,group-title="CINE", AMC 
 http://streamsy.online:2999/happy2024/newyear/78
 #EXTINF:-1 group-title="CINE", A&E  
@@ -67,7 +67,7 @@ http://streamsy.online:2999/PRPLUS/vevnife7/82
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
-http://181.78.109.49:8000/play/a06j/index.m3u8
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278456
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154096
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
@@ -163,7 +163,7 @@ http://streamsy.online:2999/PRPLUS/vevnife7/1487
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://streamsy.online:2999/PRPLUS/vevnife7/97
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://home-playtv.com:8080/Granav30/ZPETU@@2/36391
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159320
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 http://streamsy.online:2999/PRPLUS/vevnife7/91
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
