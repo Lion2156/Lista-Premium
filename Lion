@@ -117,11 +117,11 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278454
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278617
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278619
 #EXTINF:-1,group-title="CULTURA", Discovery Familia
 
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278395
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278633
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
@@ -129,7 +129,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278623
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/164301
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278625
 #EXTINF:-1 group-title="CULTURA", History Channel 
@@ -141,25 +141,25 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278636
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://streamsy.online:2999/PRPLUS/vevnife7/50
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278525
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://streamsy.online:2999/happy2024/newyear/43
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278535
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://streamsy.online:2999/happy2024/newyear/46
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278539
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://streamsy.online:2999/happy2024/newyear/44
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278542
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://streamsy.online:2999/happy2024/newyear/48
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278553
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://streamsy.online:2999/happy2024/newyear/45
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278546
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
 http://181.78.109.49:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
-http://streamsy.online:2999/happy2024/newyear/1488
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278559
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://streamsy.online:2999/PRPLUS/vevnife7/1487
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/162308
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158826
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
@@ -167,7 +167,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159320
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278579
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/279426
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://newultra.xyz:8080/981611612tv/28hdsnk2/545
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
