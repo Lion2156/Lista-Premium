@@ -31,7 +31,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278410
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://streamsy.online:2999/PRPLUS/vevnife7/38
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278418
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
@@ -45,7 +45,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123480
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278446
 #EXTINF:-1 group-title="CINE", SyFy  
-http://lunar.pm:8080/RandyJ2/randy/120154
+
 #EXTINF:-1,group-title="CINE", AMC 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278394
 #EXTINF:-1 group-title="CINE", A&E  
@@ -62,6 +62,8 @@ http://45.175.139.194:8000/play/33
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278460
+#EXTINF:-1 group-title="CINE", Cinema
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159209
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278468
 #EXTINF:-1 group-title="CINE", Cine Premium 
@@ -105,7 +107,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278516
 #EXTINF:-1 group-title="CINE", Star Channel   
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278438
 #EXTINF:-1 group-title="CINE", Studio Universal 
-http://streamsy.online:2999/happy2024/newyear/86
+
 #EXTINF:-1 group-title="CINE", TNT   
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278520
 #EXTINF:-1 group-title="CINE", The Film Zone
