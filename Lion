@@ -67,9 +67,9 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278468
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278456
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/282211
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
-http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF13Wj-LqDRbGBNWS78O3sPu0/.m3u8
+
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278470
 #EXTINF:-1 group-title="CINE", FX  
@@ -123,7 +123,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278617
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278633
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
@@ -137,7 +137,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278628
 #EXTINF:-1 group-title="CULTURA", History 2 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278629
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://streamsy.online:2999/happy2024/newyear/63
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278636
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
@@ -161,27 +161,27 @@ http://streamsy.online:2999/happy2024/newyear/1488
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://streamsy.online:2999/PRPLUS/vevnife7/1487
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-http://streamsy.online:2999/PRPLUS/vevnife7/97
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158826
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159320
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://streamsy.online:2999/PRPLUS/vevnife7/91
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278579
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
-http://streamsy.online:2999/PRPLUS/vevnife7/528
+
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://newultra.xyz:8080/981611612tv/28hdsnk2/545
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/167874
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
-http://streamsy.online:2999/PRPLUS/vevnife7/92
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278596
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
-http://streamsy.online:2999/PRPLUS/vevnife7/93
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278591
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3
-http://streamsy.online:2999/PRPLUS/vevnife7/100
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278594
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/180912
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
-http://streamsy.online:2999/PRPLUS/vevnife7/992
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278598
 #EXTINF:-1 group-title="RELIGION", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
