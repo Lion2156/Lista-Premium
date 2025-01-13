@@ -137,23 +137,23 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/164301
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278625
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278628
+http://187.249.112.44:9981/stream/channelid/1261976682?profile=pass
 #EXTINF:-1 group-title="CULTURA", History 2 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278629
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278636
+http://187.249.112.44:9981/stream/channelid/1736818847?profile=pass
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278525
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278535
+http://187.249.112.44:9981/stream/channelid/848801678?profile=pass
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278539
+http://187.249.112.44:9981/stream/channelid/347663159?profile=pass
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278542
+http://187.249.112.44:9981/stream/channelid/1344238232?profile=pass
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278553
+http://187.249.112.44:9981/stream/channelid/846020104?profile=pass
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278546
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
@@ -167,9 +167,9 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/162308
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158826
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159320
+http://187.249.112.44:9981/stream/channelid/607524862?profile=pass
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278579
+http://187.249.112.44:9981/stream/channelid/390268345?profile=pass
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/279426
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
@@ -177,9 +177,9 @@ http://newultra.xyz:8080/981611612tv/28hdsnk2/545
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/167874
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278596
+http://187.249.112.44:9981/stream/channelid/885275483?profile=pass
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278591
+http://187.249.112.44:9981/stream/channelid/1090878414?profile=pass
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278594
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
