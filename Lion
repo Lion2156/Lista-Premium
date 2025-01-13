@@ -161,7 +161,7 @@ http://181.78.109.49:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278559
+http://181.114.57.246:4000/play/HuT9u9zLHrk8FUk2/index.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/162308
 #EXTINF:-1 group-title="DEPORTES", ESPN  
