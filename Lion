@@ -35,7 +35,7 @@ http://187.249.112.44:9981/stream/channelid/1800471768?profile=pass
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278418
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278432
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278407
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
@@ -117,7 +117,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/168599
 #EXTINF:-1 group-title="CINE", Universal Channel
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278449
 #EXTINF:-1 group-title="CINE", Warner Channel 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278454
+http://187.249.112.44:9981/stream/channelid/649497696?profile=pass
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://187.249.112.44:9981/stream/channelid/435812695?profile=pass
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
@@ -133,7 +133,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278623
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/164301
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278625
 #EXTINF:-1 group-title="CULTURA", History Channel 
@@ -187,7 +187,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/180912
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278598
 #EXTINF:-1 group-title="RELIGION", Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+http://187.249.112.44:9981/stream/channelid/771883867?profile=pass
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1,group-title="SERIES TV", El chavo del 8
