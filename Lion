@@ -17,7 +17,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278360
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="NOTICIAS", N+Foro 
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
@@ -29,9 +29,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278410
+http://187.249.112.44:9981/stream/channelid/1214261464?profile=pass
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092591
+http://187.249.112.44:9981/stream/channelid/1800471768?profile=pass
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278418
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
@@ -39,11 +39,11 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278432
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278407
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278368
+http://187.249.112.44:9981/stream/channelid/1283072187?profile=pass
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123480
+http://170.83.242.9:5151/play/a0el
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278446
+http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
 #EXTINF:-1 group-title="CINE", SyFy  
 
 #EXTINF:-1,group-title="CINE", AMC 
