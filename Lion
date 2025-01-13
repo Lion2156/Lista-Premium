@@ -61,7 +61,7 @@ http://45.175.139.194:8000/play/33
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278460
+http://187.249.112.44:9981/stream/channelid/641249941?profile=pass
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
