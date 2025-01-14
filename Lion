@@ -35,7 +35,7 @@ http://187.249.112.44:9981/stream/channelid/1800471768?profile=pass
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278418
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278432
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278407
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
@@ -45,7 +45,7 @@ http://170.83.242.9:5151/play/a0el
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
 #EXTINF:-1 group-title="CINE", SyFy  
-
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278452
 #EXTINF:-1,group-title="CINE", AMC 
 http://187.249.112.44:9981/stream/channelid/1711848109?profile=pass
 #EXTINF:-1 group-title="CINE", A&E  
@@ -67,7 +67,7 @@ http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159209
 #EXTINF:-1 group-title="CINE", Cinemax  
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278468
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
@@ -75,7 +75,7 @@ http://181.78.109.49:8000/play/a06j/index.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
 http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF13Wj-LqDRbGBNWS78O3sPu0/.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278470
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278457
 #EXTINF:-1 group-title="CINE", FX  
 http://187.249.112.44:9981/stream/channelid/254968446?profile=pass
 #EXTINF:-1 group-title="CINE", Golden 
@@ -133,7 +133,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278623
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278396
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278625
 #EXTINF:-1 group-title="CULTURA", History Channel 
