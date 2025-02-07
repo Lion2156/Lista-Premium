@@ -160,10 +160,10 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278546
 http://181.78.109.49:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN  
-http://181.78.105.146:8800/play/a07e
+#EXTINF:-1 group-title="DEPORTES", TUDN MX
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155675
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/194924
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/169243
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10940
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
