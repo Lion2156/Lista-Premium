@@ -9,7 +9,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/Ow0vROp.png" group-title="NACIONAL", Canal 4 GDL 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158626
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 5 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092598
+http://187.249.112.44:9981/stream/channelid/1812213255?profile=pass
 #EXTINF:-1 group-title="https://i.imgur.com/uZdVSoW.png" group-title="NACIONAL", Canal 6
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="https://i.imgur.com/vpXleBr.png" group-title="NACIONAL", Azteca 7 
@@ -21,7 +21,7 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3
 #EXTINF:-1 group-title="NOTICIAS", N+Foro 
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092583
+http://187.249.112.44:9981/stream/channelid/1251657736?profile=pass
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
 http://190.60.32.178:8178/play/a083/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
@@ -63,9 +63,9 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155849
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159209
+http://148.113.190.252:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278468
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
@@ -99,11 +99,11 @@ http://181.78.109.49:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="CINE", Paramount Channel
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10866
 #EXTINF:-1 group-title="CINE", Panico HD
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278511
+http://187.249.112.44:9981/stream/channelid/1784393173?profile=pass
 #EXTINF:-1 group-title="CINE", Sony  
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092579
 #EXTINF:-1 group-title="CINE", Space 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278516
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/9136
 #EXTINF:-1 group-title="CINE", Star Channel   
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10558
 #EXTINF:-1 group-title="CINE", Studio Universal 
@@ -151,7 +151,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10966
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10971
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://orbytdrm.xyz:8080/live/zonesplus_discord/6bewnFhguVmD/80092.ts
+http://187.249.112.44:9981/stream/channelid/1344238232?profile=pass
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10973
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
@@ -189,7 +189,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123477
 #EXTINF:-1,group-title="DEPORTES", TVC Deportes
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145706
 #EXTINF:-1 group-title="RELIGION", Enlace
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/279003
+http://187.249.112.44:9981/stream/channelid/771883867?profile=pass
 #EXTINF:-1,group-title="RELIGION", EJTV
 http://187.249.112.44:9981/stream/channelid/1563565348?profile=pass
 #EXTINF:-1 group-title="RELIGION", Alcance TV 
