@@ -36,8 +36,6 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092591
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278418
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/187634
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278407
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10571
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
@@ -95,7 +93,7 @@ https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="CINE", HBO Family
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="CINE", MC
-http://181.78.109.49:8000/play/a03x/index.m3u8
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2199237
 #EXTINF:-1 group-title="CINE", Multipremier 
 http://181.78.109.49:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="CINE", Paramount Channel
@@ -131,11 +129,13 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218863
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278623
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218864
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10431
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278396
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10417
 #EXTINF:-1 group-title="CULTURA", Discovery World 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278625
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10415
 #EXTINF:-1 group-title="CULTURA", History Channel 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10423
 #EXTINF:-1 group-title="CULTURA", History 2 
