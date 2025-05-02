@@ -39,7 +39,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/187634
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10571
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123480
+http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092564
 #EXTINF:-1 group-title="CINE", SyFy  
@@ -59,7 +59,7 @@ http://45.175.139.194:8000/play/33
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155849
+http://181.78.109.48:8000/play/a05n/index.m3u8
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
@@ -137,11 +137,11 @@ http://181.78.109.48:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10415
 #EXTINF:-1 group-title="CULTURA", History Channel 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10423
+http://181.78.109.48:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9798
+http://181.78.109.48:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9806
+http://181.78.109.48:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
