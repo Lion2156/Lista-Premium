@@ -23,7 +23,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
 
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
-http://190.60.32.178:8178/play/a083/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302691
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
@@ -35,7 +35,7 @@ http://177.234.230.206:8011/play/a0it/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://181.78.109.48:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/187634
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302678
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://45.68.35.218:4001/play/a00s/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
@@ -65,7 +65,7 @@ http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278469.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278467.m3u8
+http://177.234.230.206:8011/play/a0nc/index.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://177.234.230.206:8011/play/a09r/index.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula 
@@ -107,17 +107,15 @@ http://181.78.109.48:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="CINE", Star Channel   
 http://181.78.109.48:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="CINE", Studio Universal 
-http://orbytdrm.xyz:8080/live/zonesplus_discord/6bewnFhguVmD/80051.ts
+http://177.234.230.206:8011/play/a0l1/index.m3u8
 #EXTINF:-1 group-title="CINE", TNT   
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155176
-#EXTINF:-1 group-title="CINE", The Film Zone
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/168599
+http://177.234.230.206:8011/play/a0od/index.m3u8
 #EXTINF:-1 group-title="CINE", Universal Channel
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278450.m3u8
 #EXTINF:-1 group-title="CINE", Warner Channel 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278453.m3u8
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9812
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302606
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 http://177.234.230.206:8011/play/a0oa/index.m3u8
 #EXTINF:-1,group-title="CULTURA", Discovery Familia
@@ -127,7 +125,7 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278395.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
 http://177.234.230.206:8011/play/a0oi/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34817
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://177.234.230.206:8011/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
@@ -143,9 +141,9 @@ http://181.78.109.48:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo 
 http://181.78.109.48:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Nat Geo Wild 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
+
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092597
+
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
 http://177.234.230.206:8011/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
@@ -153,9 +151,9 @@ http://177.234.230.206:8011/play/a0ok/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
 http://177.234.230.206:8011/play/a0n9/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10973
+http://177.234.230.206:8011/play/a0km/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10975
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302712
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
 http://181.78.109.49:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
@@ -167,27 +165,27 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://181.78.109.48:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://playtv44.com:8080/235929/123456/52744
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://playtv44.com:8080/235929/123456/219010
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302640
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218544
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319471
 #EXTINF:-1,group-title="DEPORTES", ESPN Premium
 http://newultra.xyz:8080/981611612tv/28hdsnk2/545
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/167874
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34701
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
-http://45.68.35.218:4001/play/a021/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302652
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155648
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10945
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302698
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2216927
+
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123477
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554
 #EXTINF:-1,group-title="DEPORTES", TVC Deportes
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145706
+
 #EXTINF:-1 group-title="RELIGION", Enlace
 http://187.249.112.44:9981/stream/channelid/771883867?profile=pass
 #EXTINF:-1,group-title="RELIGION", EJTV
