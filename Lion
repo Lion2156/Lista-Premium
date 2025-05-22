@@ -63,11 +63,11 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278460.m3u8
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
-http://148.113.190.252:8000/play/a015/index.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278469.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
-http://45.175.139.194:8000/play/34
+http://177.234.230.206:8011/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278456.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
