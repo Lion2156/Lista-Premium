@@ -65,7 +65,7 @@ http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
 http://148.113.190.252:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
@@ -99,7 +99,7 @@ http://181.78.109.49:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="CINE", Paramount Channel
 http://181.78.109.48:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="CINE", Panico HD
-http://187.249.112.44:9981/stream/channelid/1784393173?profile=pass
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278511.m3u8
 #EXTINF:-1 group-title="CINE", Sony  
 http://181.78.109.48:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="CINE", Space 
