@@ -29,7 +29,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10553
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278409.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092591
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
@@ -43,7 +43,7 @@ http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092564
 #EXTINF:-1 group-title="CINE", SyFy  
-http://201.182.248.254:8888/play/a09z/index.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278452.m3u8
 #EXTINF:-1,group-title="CINE", AMC 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278394.m3u8
 #EXTINF:-1 group-title="CINE", A&E  
@@ -59,7 +59,7 @@ http://45.175.139.194:8000/play/33
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
-http://181.78.109.48:8000/play/a05n/index.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278460.m3u8
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
 #EXTINF:-1 group-title="CINE", Cinema
@@ -69,15 +69,15 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
 http://45.175.139.194:8000/play/34
 #EXTINF:-1 group-title="CINE", De Pelicula 
-http://45.68.35.218:4001/play/a00e/index.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278456.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
 http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF13Wj-LqDRbGBNWS78O3sPu0/.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278457
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278457.m3u8
 #EXTINF:-1 group-title="CINE", FX  
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10560
 #EXTINF:-1 group-title="CINE", Golden 
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278483
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278479.m3u8
 #EXTINF:-1 group-title="CINE", Golden EDGE 
 http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 group-title="CINE", Golden Plus  
@@ -113,7 +113,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155176
 #EXTINF:-1 group-title="CINE", The Film Zone
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/168599
 #EXTINF:-1 group-title="CINE", Universal Channel
-http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278449
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278450.m3u8
 #EXTINF:-1 group-title="CINE", Warner Channel 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092574
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
@@ -123,7 +123,7 @@ http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9815
 #EXTINF:-1,group-title="CULTURA", Discovery Familia
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/183441
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10419
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278395.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9843
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
@@ -131,7 +131,7 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10431
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278407.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
 http://181.78.109.48:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
