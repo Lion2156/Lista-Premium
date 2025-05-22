@@ -31,13 +31,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278409.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-
+http://177.234.230.206:8011/play/a0it/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 http://181.78.109.48:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/187634
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10571
+http://45.68.35.218:4001/play/a00s/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
 http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
@@ -55,7 +55,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092595
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/158780
 #EXTINF:-1,group-title="CINE", Cine Familiar
-http://45.175.139.194:8000/play/33
+http://177.234.230.206:8011/play/a09q/index.m3u8
 #EXTINF:-1 group-title="CINE", Cine Hispano
 http://45.175.139.194:8000/play/35
 #EXTINF:-1,group-title="CINE", Cine Latino
@@ -67,7 +67,7 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278469.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
-http://177.234.230.206:8011/play/a0a5/index.m3u8
+http://177.234.230.206:8011/play/a09r/index.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278456.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Clasico
@@ -75,7 +75,7 @@ http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF13Wj-LqDRbG
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278457.m3u8
 #EXTINF:-1 group-title="CINE", FX  
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10560
+http://177.234.230.206:8011/play/a0k5/index.m3u8
 #EXTINF:-1 group-title="CINE", Golden 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278479.m3u8
 #EXTINF:-1 group-title="CINE", Golden EDGE 
@@ -119,23 +119,23 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278453.m3u8
 #EXTINF:-1 group-title="CULTURA", Animal Planet  
 http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9812
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9815
+http://177.234.230.206:8011/play/a0oa/index.m3u8
 #EXTINF:-1,group-title="CULTURA", Discovery Familia
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/183441
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278395.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9843
+http://177.234.230.206:8011/play/a0oi/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Science  
 http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/278621
 #EXTINF:-1 group-title="CULTURA", Discovery Theater 
-http://tv.proyectox.vip:8080/MANUELTV23/The6vcHE5U/9787
+http://177.234.230.206:8011/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278407.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
 http://181.78.109.48:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10415
+http://177.234.230.206:8011/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
 http://181.78.109.48:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="CULTURA", History 2 
@@ -147,11 +147,11 @@ http://live.budtvlight.com:25461/bud-2007880/1c8fb3cdb7/159938
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network 
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092597
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids  
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10966
+http://177.234.230.206:8011/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Channel 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10971
+http://177.234.230.206:8011/play/a0ok/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Disney Jr 
-http://187.249.112.44:9981/stream/channelid/1344238232?profile=pass
+http://177.234.230.206:8011/play/a0n9/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nickelodeon
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10973
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
