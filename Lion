@@ -62,8 +62,8 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 
-#EXTINF:-1 group-title="CINE", Cinema
-
+#EXTINF:-1 group-title="CINE", Az Cinema
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278464.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
