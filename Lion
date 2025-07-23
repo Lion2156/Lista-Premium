@@ -31,7 +31,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278409.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://103.111.40.242:9999/play/a015/index.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
@@ -45,9 +45,9 @@ http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/6199
 #EXTINF:-1 group-title="CINE", SyFy  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 #EXTINF:-1,group-title="CINE", AMC 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/473
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
 #EXTINF:-1 group-title="CINE", A&E  
-
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
 #EXTINF:-1 group-title="CINE", AXN  
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/468
 #EXTINF:-1,group-title="CINE", Cine Canal
@@ -59,7 +59,7 @@ http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/468
 #EXTINF:-1 group-title="CINE", Cine Hispano
 
 #EXTINF:-1,group-title="CINE", Cine Latino
-
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 #EXTINF:-1,group-title="CINE", Cine Mexicano
 
 #EXTINF:-1 group-title="CINE", Cinema
