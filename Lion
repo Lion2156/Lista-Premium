@@ -64,6 +64,8 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 
 #EXTINF:-1 group-title="CINE", Az Cinema
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278464.m3u8
+#EXTINF:-1,group-title="CINE", Claro Cinema
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
@@ -153,13 +155,15 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278544.m3u8
 #EXTINF:-1 group-title="INFANTIL", Nick Jr    
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278545.m3u8
 #EXTINF:-1 group-title="INFANTIL", TeenNick    
-
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278550.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN MX
-http://103.111.40.242:9999/play/a007/index.m3u8
+
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/17015
+#EXTINF:-1,group-title="DEPORTES", TVC Deportes
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1075
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
@@ -183,7 +187,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278598.m3u8
 #EXTINF:-1,group-title="SERIES TV", El chavo del 8
-http://home-playtv.com:8080/Granav30/ZPETU@@2/216295
+
 
 
 
