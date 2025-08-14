@@ -24,6 +24,8 @@ http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/39860
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158628.m3u8
+#EXTINF:-1 group-title="NACIONAL", 17.1 Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1681
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
