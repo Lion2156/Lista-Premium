@@ -19,7 +19,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="NACIONAL", A +  
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="NACIONAL", NUEVE  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/39860
+
 #EXTINF:-1 group-title="NOTICIAS", N+Foro 
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="NACIONAL", Imagen TV
@@ -27,7 +27,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158628.m3u8
 #EXTINF:-1 group-title="NACIONAL", 17.1 Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1681
+
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
@@ -35,17 +35,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278409.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/18655
+http://45.228.234.173:9999/play/a045/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/352
+http://160.20.165.246:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/342
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/479
+
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/6199
+http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/475
+http://user.tvcluboficial.com/live/m/m/98.m3u8
 #EXTINF:-1 group-title="CINE", SyFy  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 #EXTINF:-1,group-title="CINE", AMC 
@@ -53,7 +53,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
 #EXTINF:-1 group-title="CINE", A&E  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
 #EXTINF:-1 group-title="CINE", AXN  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/468
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158671.m3u8
 #EXTINF:-1,group-title="CINE", Cine Canal
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
@@ -79,7 +79,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278456.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 #EXTINF:-1 group-title="CINE", FX  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29922
+
 #EXTINF:-1 group-title="CINE", Golden 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
 #EXTINF:-1 group-title="CINE", Golden EDGE 
@@ -111,7 +111,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
 #EXTINF:-1 group-title="CINE", Space 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 #EXTINF:-1 group-title="CINE", Star Channel   
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/456
+
 #EXTINF:-1 group-title="CINE", Studio Universal 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278518.m3u8
 #EXTINF:-1 group-title="CINE", TNT   
@@ -125,7 +125,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278617.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278618.m3u8
 #EXTINF:-1,group-title="CULTURA", Discovery Familia
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/366
+
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278395.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
@@ -137,7 +137,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278623.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Turbo  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/359
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278397.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery World 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278625.m3u8
 #EXTINF:-1 group-title="CULTURA", History Channel 
@@ -163,21 +163,21 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278550.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN MX
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/16044
+
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/17015
+
 #EXTINF:-1,group-title="DEPORTES", TVC Deportes
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1075
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1043
+http://user.tvcluboficial.com/live/m/m/531.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/81
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278579.m3u8
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/31422
+
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/139111
+http://user.tvcluboficial.com/live/m/m/192.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
@@ -185,7 +185,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278590.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29451
+
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278598.m3u8
 
