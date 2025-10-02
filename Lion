@@ -43,11 +43,11 @@ http://45.228.234.173:9999/play/a045/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-
+http://38.44.109.41:8003/play/a040
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
-
+http://200.60.124.19:29000/play/a01g/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-
+http://45.228.234.173:9999/play/a059/index.m3u8
 #EXTINF:-1 group-title="CINE", SyFy  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 #EXTINF:-1,group-title="CINE", AMC 
@@ -163,7 +163,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278550.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN MX
-http://user.tvcluboficial.com/live/m/m/698.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
 http://user.tvcluboficial.com/live/m/m/86.m3u8
 #EXTINF:-1,group-title="DEPORTES", TVC Deportes
@@ -171,13 +171,13 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://user.tvcluboficial.com/live/m/m/531.m3u8
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/185149
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278579.m3u8
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/218701
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
-http://user.tvcluboficial.com/live/m/m/192.m3u8
+http://199.127.63.143:8989/278826_.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
