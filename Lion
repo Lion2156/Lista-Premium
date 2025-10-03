@@ -75,9 +75,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
 
 #EXTINF:-1 group-title="CINE", De Pelicula 
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278456.m3u8
+http://104.238.205.28:8989/278456_.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
+http://104.238.205.28:8989/278457_.m3u8
 #EXTINF:-1 group-title="CINE", FX  
 http://177.93.46.163:8000/play/a024
 #EXTINF:-1 group-title="CINE", Golden 
