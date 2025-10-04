@@ -43,7 +43,7 @@ http://45.228.234.173:9999/play/a045/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://38.44.109.41:8003/play/a040
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/108594
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
 http://200.60.124.19:29000/play/a01g/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
