@@ -37,7 +37,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Central
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278409.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Distrito Comedia 
-http://45.228.234.173:9999/play/a045/index.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
@@ -47,7 +47,9 @@ http://38.44.109.41:8003/play/a040
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
 http://200.60.124.19:29000/play/a01g/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-http://45.228.234.173:9999/play/a059/index.m3u8
+
+#EXTINF:-1,group-title="ENTRETENIMIENTO", Unimas
+http://104.238.205.28:8989/278733_.m3u8
 #EXTINF:-1 group-title="CINE", SyFy  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 #EXTINF:-1,group-title="CINE", AMC 
