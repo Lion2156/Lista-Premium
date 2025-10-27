@@ -43,7 +43,7 @@ http://45.228.234.173:9999/play/a045/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/108594
+http://38.44.109.41:8003/play/a040
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
 http://200.60.124.19:29000/play/a01g/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
@@ -61,11 +61,11 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
 #EXTINF:-1 group-title="CINE", Cinema Dinamita
 
 #EXTINF:-1,group-title="CINE", Cine Familiar
-
+http://177.234.230.206:8011/play/a09q/index.m3u8
 #EXTINF:-1,group-title="CINE", Cine Latino
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 #EXTINF:-1,group-title="CINE", Cine Mexicano
-
+http://177.234.230.206:8011/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="CINE", Az Cinema
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278464.m3u8
 #EXTINF:-1,group-title="CINE", Claro Cinema
@@ -73,7 +73,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 #EXTINF:-1 group-title="CINE", Cinemax  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 #EXTINF:-1 group-title="CINE", Cine Premium 
-
+http://177.234.230.206:8011/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula 
 http://104.238.205.28:8989/278456_.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
