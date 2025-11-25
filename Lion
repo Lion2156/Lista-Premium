@@ -29,7 +29,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158628.m3u8
 #EXTINF:-1 group-title="NACIONAL", 17.1 Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CNN en EspaÑol 
-
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/10253
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", Milenio TV  
@@ -47,9 +47,9 @@ http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9800
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
 http://177.234.230.206:8011/play/a0ia/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
-http://200.60.124.19:29000/play/a01g/index.m3u8
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/62101
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
-
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/8381
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unimas
 http://104.238.205.28:8989/278733_.m3u8
 #EXTINF:-1 group-title="CINE", SyFy  
