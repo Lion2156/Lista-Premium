@@ -43,9 +43,9 @@ http://177.234.230.206:8011/play/a0it/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E! 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime 
-
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9800
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLnovelas 
-http://38.44.109.41:8003/play/a040
+http://177.234.230.206:8011/play/a0ia/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Telemundo Internacional
 http://200.60.124.19:29000/play/a01g/index.m3u8
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unicable 
@@ -83,7 +83,7 @@ http://104.238.205.28:8989/278456_.m3u8
 #EXTINF:-1 group-title="CINE", De Pelicula Plus 
 http://104.238.205.28:8989/278457_.m3u8
 #EXTINF:-1 group-title="CINE", FX  
-http://177.93.46.163:8000/play/a024
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9655
 #EXTINF:-1 group-title="CINE", Golden 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
 #EXTINF:-1 group-title="CINE", Golden EDGE 
@@ -129,7 +129,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278617.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery Channel 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278618.m3u8
 #EXTINF:-1,group-title="CULTURA", Discovery Familia
-
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9817
 #EXTINF:-1 group-title="CULTURA", Discovery H&H 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278395.m3u8
 #EXTINF:-1 group-title="CULTURA", Discovery ID    
@@ -169,19 +169,19 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN MX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 #EXTINF:-1,group-title="DEPORTES", TUDN USA 
-http://tv14s.xyz:8080/FxQ7fU/508292/11885
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
 #EXTINF:-1,group-title="DEPORTES", TVC Deportes
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2  
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/185149
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9531
 #EXTINF:-1 group-title="DEPORTES", ESPN 3  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278579.m3u8
 #EXTINF:-1,group-title="DEPORTES", ESPN Deportes
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/218701
+http://131.161.83.249:8031/play/a07f
 #EXTINF:-1 group-title="DEPORTES", F1 Formula 1
-http://199.127.63.143:8989/278826_.m3u8
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/156163
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
@@ -189,7 +189,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278590.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Deportes
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/36396
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9571
 #EXTINF:-1,group-title="DEPORTES", Fox Sports Premium
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278598.m3u8
 
