@@ -51,7 +51,7 @@ http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/8381
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Unimas
 http://tv14s.xyz:8080/FxQ7fU/508292/57969
 #EXTINF:-1,group-title="ENTRETENIMIENTO", Univision
-http://200.229.147.142:8000/play/a052/index.m3u8
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="CINE", SyFy  
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 #EXTINF:-1,group-title="CINE", AMC 
